@@ -182,3 +182,11 @@ nous voyons,
 vous voyez,
 ils voient,
 elles voient --- *voir* (бачити)
+
+
+
+il faut --- *falloir* (повинен)
+
+
+
+il pleut --- *pleuvoir* (дощити)
