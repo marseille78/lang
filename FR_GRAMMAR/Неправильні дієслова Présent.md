@@ -64,6 +64,17 @@ elles connaissent --- *connaître* (зрозуміти; пізнавати)
 
 
 
+je dois,
+tu dois,
+il doit,
+elle doit,
+nous devons,
+vous devez,
+ils doivent,
+elles doivent --- *devoir* (повинен)
+
+
+
 je dis,
 tu dis,
 il dit,
