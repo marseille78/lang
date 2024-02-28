@@ -118,9 +118,10 @@ avoir une faim de loup --- (Ідеома)
 
 
 
-être joyeux --- радіти
+être joyeux --- (Дієслово)
+*радіти*
 
 
 
-être en colère --- злитися
-
+être en colère --- (Дієслово)
+*злитися*
