@@ -42,6 +42,30 @@ elles attendent --- *attendre* (чекати)
 
 
 
+je prends,
+tu prends,
+il prend,
+elle prend,
+nous prenons,
+vous prenez,
+ils prennent,
+ils prennent
+(like *apprendre*; *comprendre*) --- *prendre* (брати)
+
+
+
+j'appends,
+tu appends,
+il append,
+elle append,
+nous appenons,
+vous appenez,
+ils appennent,
+elles appennent
+(like *prendre*; *comprendre*) --- *apprendre* (вивчати; вчитися)
+
+
+
 je comprends,
 tu comprends,
 il comprend,
@@ -49,7 +73,8 @@ elle comprend,
 nous comprenons,
 vous comprenez,
 ils comprennent,
-elles comprennent --- *comprendre* (розуміти)
+elles comprennent
+(like *prendre*; *apprendre*) --- *comprendre* (розуміти)
 
 
 
