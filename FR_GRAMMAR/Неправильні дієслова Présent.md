@@ -49,20 +49,18 @@ elle prend,
 nous prenons,
 vous prenez,
 ils prennent,
-ils prennent
-(like *apprendre*; *comprendre*) --- *prendre* (брати)
+elles prennent --- *prendre* (брати)
 
 
 
-j'appends,
-tu appends,
-il append,
-elle append,
-nous appenons,
-vous appenez,
-ils appennent,
-elles appennent
-(like *prendre*; *comprendre*) --- *apprendre* (вивчати; вчитися)
+j'apprends,
+tu apprends,
+il apprend,
+elle apprend,
+nous apprenons,
+vous apprenez,
+ils apprennent,
+elles apprennent --- *apprendre* (вивчати; навчатися)
 
 
 
@@ -73,8 +71,7 @@ elle comprend,
 nous comprenons,
 vous comprenez,
 ils comprennent,
-elles comprennent
-(like *prendre*; *apprendre*) --- *comprendre* (розуміти)
+elles comprennent --- *comprendre* (розуміти)
 
 
 
@@ -177,6 +174,17 @@ elles peuvent --- *pouvoir* (могти)
 
 
 
+je réponds,
+tu réponds,
+il répond,
+elle répond,
+nous répondons,
+vous répondez,
+ils répondent,
+elles répondent --- *répondre* (відповідати)
+
+
+
 je sais,
 tu sais,
 il sait,
@@ -218,6 +226,116 @@ nous voyons,
 vous voyez,
 ils voient,
 elles voient --- *voir* (бачити)
+
+
+
+je viens,
+tu viens,
+il vient,
+elle vient,
+nous venons,
+vous venez,
+ils viennent,
+elles viennent --- *venir* (приходити; приїжджати)
+
+
+
+je souviens,
+tu souviens,
+il souvient,
+elle souvient,
+nous souvenons,
+vous souvenez,
+ils souviennent,
+elles souviennent --- *souvenir* (пам'ятати)
+
+
+
+je bois,
+tu bois,
+il boit,
+elle boit,
+nous buvons,
+vous buvez,
+ils boivent,
+elles boivent --- *boire* (пити)
+
+
+
+je conduis,
+tu conduis,
+il conduit,
+elle conduit,
+nous conduisons,
+vous conduisez,
+ils conduisent,
+elles conduisent --- *conduire* (водити машину)
+
+
+
+je cours,
+tu cours,
+il court,
+elle court,
+nous courons,
+vous courez,
+ils courent,
+elles courent --- *courir* (бігати)
+
+
+
+je mets,
+tu mets,
+il met,
+elle met,
+nous mettons,
+vous mettez,
+ils mettent,
+elles mettent --- *mettre* (ставити, класти)
+
+
+
+j'offre,
+tu offres,
+il offre,
+elle offre,
+nous offrons,
+vous offrez,
+ils offrent,
+elles offrent --- *offrir* (пропонувати)
+
+
+
+je reçois,
+tu reçois,
+il reçoit,
+elle reçoit,
+nous recevons,
+vous recevez,
+ils reçoivent,
+elles reçoivent --- *recevoir* (отримувати; приймати)
+
+
+
+je suis,
+tu suis,
+il suit,
+elle suit,
+nous suivons,
+vous suivez,
+ils suivent,
+elles suivent --- *suivre* (слідувати; стежити за)
+
+
+
+je crois,
+tu crois,
+il croit,
+elle croit,
+nous croyons
+vous croyez
+ils croient,
+elles croient --- *croire* (вірити)
 
 
 
