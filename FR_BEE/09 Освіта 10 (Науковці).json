@@ -1,0 +1,327 @@
+[
+  "Середній 1",
+  {
+    "ua": "вчений",
+    "ru": "ученый",
+    "en": "scientist",
+    "fr": "le scientifique",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "математик",
+    "ru": "математик",
+    "en": "mathematician",
+    "fr": "la mathématicienne",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "фізик",
+    "ru": "физик",
+    "en": "physicist",
+    "fr": "le physicien",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "астроном",
+    "ru": "астроном",
+    "en": "astronomer",
+    "fr": "l'astronome",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "хімік",
+    "ru": "химик",
+    "en": "chemist",
+    "fr": "la chimiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "біолог",
+    "ru": "биолог",
+    "en": "biologist",
+    "fr": "la biologiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "географ",
+    "ru": "географ",
+    "en": "geographer",
+    "fr": "le géographe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "лінгвіст",
+    "ru": "лингвист",
+    "en": "linguist",
+    "fr": "la linguiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "дослідник",
+    "ru": "исследователь",
+    "en": "explorer",
+    "fr": "l'explorateur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "історик",
+    "ru": "историк",
+    "en": "historian",
+    "fr": "l'historien",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "археолог",
+    "ru": "археолог",
+    "en": "archaeologist",
+    "fr": "l'archéologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "антрополог",
+    "ru": "антрополог",
+    "en": "anthropologist",
+    "fr": "l'anthropologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "геолог",
+    "ru": "геолог",
+    "en": "geologist",
+    "fr": "le géologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "еколог",
+    "ru": "эколог",
+    "en": "ecologist",
+    "fr": "l'écologiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "генетик",
+    "ru": "генетик",
+    "en": "geneticist",
+    "fr": "le généticien",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мікробіолог",
+    "ru": "микробиолог",
+    "en": "microbiologist",
+    "fr": "le microbiologiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "біохімік",
+    "ru": "биохимик",
+    "en": "biochemist",
+    "fr": "le biochimiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "ботанік",
+    "ru": "ботаник",
+    "en": "botanist",
+    "fr": "le botaniste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зоолог",
+    "ru": "зоолог",
+    "en": "zoologist",
+    "fr": "le zoologiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бактеріолог",
+    "ru": "бактериолог",
+    "en": "bacteriologist",
+    "fr": "le bactériologiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "океанограф",
+    "ru": "океанограф",
+    "en": "oceanographer",
+    "fr": "l'océanographe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "міколог",
+    "ru": "миколог",
+    "en": "mycologist",
+    "fr": "le mycologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

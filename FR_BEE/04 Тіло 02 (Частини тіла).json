@@ -1,0 +1,472 @@
+[
+  "Початковий 1",
+  {
+    "ua": "тіло",
+    "ru": "тело",
+    "en": "body",
+    "fr": "le corps",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шия",
+    "ru": "шея",
+    "en": "neck",
+    "fr": "le cou",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кисть руки",
+    "ru": "кисть руки",
+    "en": "hand",
+    "fr": "la main",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стопа",
+    "ru": "ступня",
+    "en": "foot",
+    "fr": "le pied",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "палець",
+    "ru": "палец",
+    "en": "finger",
+    "fr": "le doigt",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Початковий 2",
+  {
+    "ua": "рука",
+    "ru": "рука",
+    "en": "arm",
+    "fr": "le bras",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "плече",
+    "ru": "плечо",
+    "en": "shoulder",
+    "fr": "l'épaule",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "лікоть",
+    "ru": "локоть",
+    "en": "elbow",
+    "fr": "le coude",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нога",
+    "ru": "нога",
+    "en": "leg",
+    "fr": "la jambe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "коліно",
+    "ru": "колено",
+    "en": "knee",
+    "fr": "le genou",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "живіт",
+    "ru": "живот",
+    "en": "belly",
+    "fr": "le ventre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "груди",
+    "ru": "грудь",
+    "en": "chest",
+    "fr": "la poitrine",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "талія",
+    "ru": "талия",
+    "en": "waist",
+    "fr": "la taille",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "спина",
+    "ru": "спина",
+    "en": "back",
+    "fr": "le dos",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пахва",
+    "ru": "подмышка",
+    "en": "armpit",
+    "fr": "l'aisselle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "передпліччя",
+    "ru": "предплечье",
+    "en": "forearm",
+    "fr": "l'avant-bras",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зап'ястя",
+    "ru": "запястье",
+    "en": "wrist",
+    "fr": "le poignet",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "долоня",
+    "ru": "ладонь",
+    "en": "palm",
+    "fr": "la paume",
+    "opts": {
+      "type": "Іменник",
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кулак",
+    "ru": "кулак",
+    "en": "fist",
+    "fr": "le poing",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "кульша",
+    "ru": "бок",
+    "en": "hip",
+    "fr": "la hanche",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стегно",
+    "ru": "бедро",
+    "en": "thigh",
+    "fr": "la cuisse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "литка",
+    "ru": "икра",
+    "en": "calf",
+    "fr": "le mollet",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гомілка",
+    "ru": "голень",
+    "en": "shin",
+    "fr": "le tibia",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "суглоб",
+    "ru": "сустав",
+    "en": "joint",
+    "fr": "l'articulation",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кісточки",
+    "ru": "суставы пальцев",
+    "en": "knuckles",
+    "fr": "les jointures",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ніготь",
+    "ru": "ноготь",
+    "en": "nail",
+    "fr": "l'ongle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кутикула",
+    "ru": "кутикула",
+    "en": "cuticle",
+    "fr": "la cuticule",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "щиколотка",
+    "ru": "лодыжка",
+    "en": "ankle",
+    "fr": "la cheville",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "п'ята",
+    "ru": "пятка",
+    "en": "heel",
+    "fr": "le talon",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підошва",
+    "ru": "ступня",
+    "en": "sole",
+    "fr": "la plante du pied",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "палець ноги",
+    "ru": "палец ноги",
+    "en": "toe",
+    "fr": "l'orteil",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підйом",
+    "ru": "подъем",
+    "en": "instep",
+    "fr": "le cou-de-pied",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

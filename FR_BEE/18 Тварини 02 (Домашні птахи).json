@@ -1,0 +1,179 @@
+[
+  "Початковий 1",
+  {
+    "ua": "курка",
+    "ru": "курица",
+    "en": "hen",
+    "fr": "la poule",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "півень",
+    "ru": "петух",
+    "en": "cock",
+    "fr": "le coq",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "качка",
+    "ru": "утка",
+    "en": "duck",
+    "fr": "le canard",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr":"Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гуска",
+    "ru": "гусь",
+    "en": "goose",
+    "fr": "l'oie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "птах",
+    "ru": "птица",
+    "en": "bird",
+    "fr": "l'oiseau",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "індичка",
+    "ru": "индюк",
+    "en": "turkey",
+    "fr": "la dinde",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "папуга",
+    "ru": "попугай",
+    "en": "parrot",
+    "fr": "le perroquet",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "канарка",
+    "ru": "канарейка",
+    "en": "canary",
+    "fr": "le canari",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "свійська птиця",
+    "ru": "домашние птицы",
+    "en": "poultry",
+    "fr": "les volailles",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "павич",
+    "ru": "павлин",
+    "en": "peacock",
+    "fr": "le paon",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "страус",
+    "ru": "страус",
+    "en": "ostrich",
+    "fr": "l'autruche",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "какаду",
+    "ru": "какаду",
+    "en": "cockatoo",
+    "fr": "le cacatoès",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

@@ -1,0 +1,487 @@
+[
+  "Початковий 1",
+  {
+    "ua": "театр",
+    "ru": "театр",
+    "en": "theatre",
+    "fr": "le théâtre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "спектакль",
+    "ru": "пьеса",
+    "en": "play",
+    "fr": "la pièce de théâtre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "балет",
+    "ru": "балет",
+    "en": "ballet",
+    "fr": "le ballet",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "концерт",
+    "ru": "концерт",
+    "en": "concert",
+    "fr": "le concert",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "білет",
+    "ru": "билет",
+    "en": "ticket",
+    "fr": "le billet",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "сцена",
+    "ru": "сцена",
+    "en": "stage",
+    "fr": "la scène",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вистава",
+    "ru": "спектакль",
+    "en": "show",
+    "fr": "le spectacle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "роль",
+    "ru": "роль",
+    "en": "role",
+    "fr": "le rôle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "маска",
+    "ru": "маска",
+    "en": "mask",
+    "fr": "le masque",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "танець",
+    "ru": "танец",
+    "en": "dance",
+    "fr": "la danse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бінокль",
+    "ru": "бинокль",
+    "en": "binoculars",
+    "fr": "les jumelles",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "подія",
+    "ru": "мероприятие",
+    "en": "event",
+    "fr": "l'événement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вистава",
+    "ru": "выступение",
+    "en": "performance",
+    "fr": "la performance",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "акт",
+    "ru": "акт",
+    "en": "act",
+    "fr": "l'acte",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "антракт",
+    "ru": "антракт",
+    "en": "interval",
+    "fr": "l'intermède",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "публіка",
+    "ru": "зрители",
+    "en": "audience",
+    "fr": "l'audience",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "аплодувати",
+    "ru": "аплодировать",
+    "en": "to applaud",
+    "fr": "applaudir",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "сидіння",
+    "ru": "место",
+    "en": "seat",
+    "fr": "la place",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ряд",
+    "ru": "ряд",
+    "en": "row",
+    "fr": "la rangée",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сценічний фон",
+    "ru": "фон сцены",
+    "en": "backcloth",
+    "fr": "la toile de fond",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "аудиторія",
+    "ru": "зрительный зал",
+    "en": "auditorium",
+    "fr": "la salle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "оркестрова яма",
+    "ru": "оркестровая яма",
+    "en": "orchestra pit",
+    "fr": "la fosse d'orchestre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вестибюль",
+    "ru": "вестибюль",
+    "en": "vestibule",
+    "fr": "le vestibule",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гардеробна кімната",
+    "ru": "гардероб",
+    "en": "cloakroom",
+    "fr": "le vestiaire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий" 
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "арена",
+    "ru": "арена",
+    "en": "arena",
+    "fr": "l'arène",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бальний зал",
+    "ru": "бальний зал",
+    "en": "ballroom",
+    "fr": "la salle de bal",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "аплодисменти",
+    "ru": "аплодисменты",
+    "en": "applause",
+    "fr": "l'applaudissement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "репетирувати",
+    "ru": "репетировать",
+    "en": "to rehearse",
+    "fr": "répéter",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "виступати",
+    "ru": "исполнять",
+    "en": "to perform",
+    "fr": "jouer",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "репетиція",
+    "ru": "репетиция",
+    "en": "rehearsal",
+    "fr": "le répétition",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прем'єра",
+    "ru": "премьера",
+    "en": "premiere",
+    "fr": "la première",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "репертуар",
+    "ru": "репертуар",
+    "en": "repertoire",
+    "fr": "le répertoire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "театральна програма",
+    "ru": "театральная программа",
+    "en": "theatre programme",
+    "fr": "le programme de théâtre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прожектор",
+    "ru": "прожектор",
+    "en": "spotlight",
+    "fr": "le projecteur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

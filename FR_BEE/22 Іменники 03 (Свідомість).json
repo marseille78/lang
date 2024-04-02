@@ -1,0 +1,369 @@
+[
+  "Середній 1",
+  {
+    "ua": "душа",
+    "ru": "душа",
+    "en": "soul",
+    "fr": "l'âme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пам'ять",
+    "ru": "память",
+    "en": "memory",
+    "fr": "la mémoire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "думка",
+    "ru": "мысль",
+    "en": "thought",
+    "fr": "la pensée",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ідея",
+    "ru": "идея",
+    "en": "idea",
+    "fr": "l'idée",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "розум",
+    "ru": "ум",
+    "en": "mind",
+    "fr": "l'esprit",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "логіка",
+    "ru": "логика",
+    "en": "logic",
+    "fr": "la logique",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бажання",
+    "ru": "желание",
+    "en": "desire",
+    "fr": "le désir",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вибір",
+    "ru": "выбор",
+    "en": "choice",
+    "fr": "le choix",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "відношення",
+    "ru": "отношение",
+    "en": "attitude",
+    "fr": "l'attitude",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "увага",
+    "ru": "внимание",
+    "en": "attention",
+    "fr": "l'attention",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шок",
+    "ru": "шок",
+    "en": "shock",
+    "fr": "le choc",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "депресія",
+    "ru": "депрессия",
+    "en": "depression",
+    "fr": "la dépression",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "фантазія",
+    "ru": "фантазия",
+    "en": "fantasy",
+    "fr": "la fantaisie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "психологія",
+    "ru": "психология",
+    "en": "psychology",
+    "fr": "la psychologie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "філософія",
+    "ru": "философия",
+    "en": "philosophy",
+    "fr": "la philosophie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "соціологія",
+    "ru": "социология",
+    "en": "sociology",
+    "fr": "la sociologie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "поведінка",
+    "ru": "поведение",
+    "en": "behaviour",
+    "fr": "le comportement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "слухняність",
+    "ru": "покорность",
+    "en": "obedience",
+    "fr": "l'obéissance",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "неслухняність",
+    "ru": "непокорность",
+    "en": "disobedience",
+    "fr": "la désobéissance",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "аналіз",
+    "ru": "анализ",
+    "en": "analysis",
+    "fr": "l'analyse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зусилля",
+    "ru": "усилие",
+    "en": "effort",
+    "fr": "l'effort",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рішення",
+    "ru": "решение",
+    "en": "decision",
+    "fr": "la décision",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "висновок",
+    "ru": "вывод",
+    "en": "conclusion",
+    "fr": "la conclusion",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "віра",
+    "ru": "убеждение",
+    "en": "belief",
+    "fr": "la croyance",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "манера",
+    "ru": "манера",
+    "en": "manner",
+    "fr": "la manière",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

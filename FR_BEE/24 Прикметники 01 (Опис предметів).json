@@ -1,0 +1,755 @@
+[
+  "Початковий 1",
+  {
+    "ua": "старий",
+    "ru": "старый",
+    "en": "old",
+    "fr": "vieux",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "новий",
+    "ru": "новый",
+    "en": "new",
+    "fr": "nouveau",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "порожній",
+    "ru": "пустой",
+    "en": "empty",
+    "fr": "vide",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "повний",
+    "ru": "полный",
+    "en": "full",
+    "fr": "plein",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "швидкий",
+    "ru": "быстрый",
+    "en": "fast",
+    "fr": "rapide",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "повільний",
+    "ru": "медленный",
+    "en": "slow",
+    "fr": "lent",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "твердий",
+    "ru": "твердый",
+    "en": "hard",
+    "fr": "dur",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "м'який",
+    "ru": "мягкий",
+    "en": "soft",
+    "fr": "mou",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дешевий",
+    "ru": "дешевый",
+    "en": "cheap",
+    "fr": "bon marché",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дорогий",
+    "ru": "дорогой",
+    "en": "expensive",
+    "fr": "cher",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "досконалий",
+    "ru": "идеальный",
+    "en": "ideal",
+    "fr": "idéal",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "відчинений",
+    "ru": "открытый",
+    "en": "open",
+    "fr": "ouvert",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зачинений",
+    "ru": "закрытый",
+    "en": "closed",
+    "fr": "fermé",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "легенький",
+    "ru": "легкий",
+    "en": "light",
+    "fr": "léger",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "важкий",
+    "ru": "тяжелый",
+    "en": "heavy",
+    "fr": "lourd",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мокрий",
+    "ru": "мокрый",
+    "en": "wet",
+    "fr": "mouillé",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "липкий",
+    "ru": "липкий",
+    "en": "sticky",
+    "fr": "collant",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "розбитий",
+    "ru": "разбитый",
+    "en": "broken",
+    "fr": "cassé",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "підробний",
+    "ru": "поддельный",
+    "en": "fake",
+    "fr": "contrefait",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "достовірний",
+    "ru": "подлинный",
+    "en": "authentic",
+    "fr": "authentique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крихкий",
+    "ru": "хрупкий",
+    "en": "fragile",
+    "fr": "fragile",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "коштовний",
+    "ru": "ценный",
+    "en": "valuable",
+    "fr": "précieux",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "якісний",
+    "ru": "качественный",
+    "en": "qualitative",
+    "fr": "qualitatif",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стандартний",
+    "ru": "стандартный",
+    "en": "standard",
+    "fr": "standard",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "інноваційний",
+    "ru": "инновационный",
+    "en": "innovative",
+    "fr": "innovant",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "довговічний",
+    "ru": "прочный",
+    "en": "durable",
+    "fr": "durable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "автоматичний",
+    "ru": "автоматический",
+    "en": "automatic",
+    "fr": "automatique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "електронний",
+    "ru": "электронный",
+    "en": "electronic",
+    "fr": "électronique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "електричний",
+    "ru": "электрическая",
+    "en": "electric",
+    "fr": "électrique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "переносний",
+    "ru": "портативный",
+    "en": "portable",
+    "fr": "portable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "напівпрозорий",
+    "ru": "просвечивающий",
+    "en": "translucent",
+    "fr": "translucide",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прозорий",
+    "ru": "прозрачный",
+    "en": "transparent",
+    "fr": "transparent",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "такий що піддається переробці",
+    "ru": "пригодный для переработки",
+    "en": "recyclable",
+    "fr": "recyclable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "складний",
+    "ru": "усложненный",
+    "en": "sophisticated",
+    "fr": "sophistiqué",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "блискучий",
+    "ru": "блестящий",
+    "en": "shiny",
+    "fr": "brillant",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пухнастий",
+    "ru": "пушистый",
+    "en": "fluffy",
+    "fr": "duveteux",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вологий",
+    "ru": "влажный",
+    "en": "moist",
+    "fr": "humide",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "глянцевий",
+    "ru": "глянцевый",
+    "en": "glossy",
+    "fr": "brillant",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "іскристий",
+    "ru": "сверкающий",
+    "en": "sparkling",
+    "fr": "étincelant",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дорогоцінний",
+    "ru": "драгоценный",
+    "en": "precious",
+    "fr": "précieux",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "безцінний",
+    "ru": "бесценный",
+    "en": "priceless",
+    "fr": "inestimable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гнучкий",
+    "ru": "гибкий",
+    "en": "flexible",
+    "fr": "flexible",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "негнучкий",
+    "ru": "негибкий",
+    "en": "inflexible",
+    "fr": "inflexible",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "дерев'яний",
+    "ru": "деревянный",
+    "en": "wooden",
+    "fr": "en bois",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "золотий",
+    "ru": "золотой",
+    "en": "golden",
+    "fr": "doré",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "срібний",
+    "ru": "серебряный",
+    "en": "silver",
+    "fr": "argenté",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "металевий",
+    "ru": "металлический",
+    "en": "metallic",
+    "fr": "métallique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "іржавий",
+    "ru": "ржавый",
+    "en": "rusty",
+    "fr": "rouillé",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "еластичний",
+    "ru": "эластичный",
+    "en": "elastic",
+    "fr": "élastique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "хутряний",
+    "ru": "меховой",
+    "en": "furry",
+    "fr": "à fourrure",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "водонепроникний",
+    "ru": "водонепроницаемый",
+    "en": "waterproof",
+    "fr": "imperméable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вогнетривкий",
+    "ru": "огнеупорный",
+    "en": "fireproof",
+    "fr": "ignifuge",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

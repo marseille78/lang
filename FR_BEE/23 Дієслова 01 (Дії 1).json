@@ -1,0 +1,638 @@
+[
+  "Початковий 1",
+  {
+    "ua": "приходити [Глаголы движения]",
+    "ru": "приходить",
+    "en": "to come",
+    "fr": "venir",
+    "es": "venir",
+    "de": "kommen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "йти [Глаголы движения]",
+    "ru": "идти",
+    "en": "to go",
+    "fr": "aller",
+    "es": "ir",
+    "de": "gehen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "відчиняти [Глаголы рабочих операций]",
+    "ru": "открывать",
+    "en": "to open",
+    "fr": "ouvrir",
+    "es": "abrir",
+    "de": "öffnen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зачиняти [Глаголы рабочих операций]",
+    "ru": "закрывать",
+    "en": "to close",
+    "fr": "fermer",
+    "de": "schließen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "робити [Глаголы рабочих операций]",
+    "ru": "делать",
+    "en": "to make",
+    "fr": "faire",
+    "es": "hacer",
+    "de": "machen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": "Виробляти або створювати щось"
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "бігти [Глаголы движения]",
+    "ru": "бежать",
+    "en": "to run",
+    "fr": "courir",
+    "es": "correr",
+    "de": "laufen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "плавати [Глаголы движения]",
+    "ru": "плавать",
+    "en": "to swim",
+    "fr": "nager",
+    "es": "nadar",
+    "de": "schwimmen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "танцювати [Бытовые глаголы]",
+    "ru": "танцевать",
+    "en": "to dance",
+    "fr": "danser",
+    "es": "bailar",
+    "de": "tanzen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тягти [Глаголы рабочих операций]",
+    "ru": "тянуть",
+    "en": "to pull",
+    "fr": "tirer",
+    "es": "tirar",
+    "de": "ziehen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "штовхати [Глаголы рабочих операций]",
+    "ru": "толкать",
+    "en": "to push",
+    "fr": "pousser",
+    "es": "empujar",
+    "de": "schieben",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "показувати [Глаголы мышления]",
+    "ru": "показывать",
+    "en": "to show",
+    "fr": "montrer",
+    "es": "mostrar",
+    "de": "zeigen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "входити [Глаголы движения]",
+    "ru": "входить",
+    "en": "to enter",
+    "fr": "entrer",
+    "es": "entrar",
+    "de": "eintreten",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "виходити [Глаголы движения]",
+    "ru": "выходить",
+    "en": "to exit",
+    "fr": "sortir",
+    "es": "salir",
+    "de": "hinausgehen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "користуватися [Глаголы рабочих операций]",
+    "ru": "использовать",
+    "en": "to use",
+    "fr": "utiliser",
+    "es": "usar",
+    "de": "benutzen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "слідувати [Глаголы движения]",
+    "ru": "следовать",
+    "en": "to follow",
+    "fr": "suivre",
+    "es": "seguir",
+    "de": "folgen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прибувати [Глаголы движения]",
+    "ru": "прибывать",
+    "en": "to arrive",
+    "fr": "arriver",
+    "es": "llegar",
+    "de": "ankommen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "впускати [Глаголы движения]",
+    "ru": "ронять",
+    "en": "to drop",
+    "fr": "faire tomber",
+    "es": "caer",
+    "de": "fallen lassen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "наповнювати [Глаголы наличия и количества]",
+    "ru": "наполнять",
+    "en": "to fill",
+    "fr": "remplir",
+    "es": "llenar",
+    "de": "füllen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "отримувати [Глаголы общения]",
+    "ru": "получать",
+    "en": "to get",
+    "fr": "obtenir",
+    "es": "recibir",
+    "de": "erhalten",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бити; попадати [Глаголы борьбы]",
+    "ru": "ударять",
+    "en": "to hit",
+    "fr": "frapper",
+    "es": "golpear",
+    "de": "schlagen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "реагувати [Глаголы чувств]",
+    "ru": "реагировать",
+    "en": "to react",
+    "fr": "réagir",
+    "es": "reaccionar",
+    "de": "reagieren",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "трясти [Глаголы движения]",
+    "ru": "трясти",
+    "en": "to shake",
+    "fr": "secouer",
+    "es": "sacudir",
+    "de": "schütteln",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "подавати [Глаголы общения]",
+    "ru": "передавать",
+    "en": "to hand",
+    "fr": "passer",
+    "es": "dar",
+    "de": "überreichen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кидати [Глаголы рабочих операций]",
+    "ru": "бросать",
+    "en": "to throw",
+    "fr": "lancer",
+    "es": "lanzar",
+    "de": "werfen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підійматися [Глаголы движения]",
+    "ru": "подниматься",
+    "en": "to go up",
+    "fr": "monter",
+    "es": "subir",
+    "de": "aufsteigen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "спускатися [Глаголы движения]",
+    "ru": "спускаться",
+    "en": "to go down",
+    "fr": "descendre",
+    "es": "bajar",
+    "de": "absteigen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "лягати [Глаголы расположения/позы]",
+    "ru": "ложиться",
+    "en": "to lie down",
+    "fr": "s'allonger",
+    "es": "acostarse",
+    "de": "sich hinlegen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "опиратися [Глаголы расположения/позы]",
+    "ru": "облокачиваться",
+    "en": "to lean",
+    "fr": "se pencher",
+    "es": "apoyarse",
+    "de": "sich anlehnen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ховати [Глаголы рабочих операций]",
+    "ru": "прятать",
+    "en": "to hide",
+    "fr": "cacher",
+    "es": "esconder",
+    "de": "verstecken",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "залишати [Глаголы движения][Глаголы наличия и количества]",
+    "ru": "оставлять",
+    "en": "to leave",
+    "fr": "laisser",
+    "es": "dejar",
+    "de": "zurücklassen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стукати [Глаголы рабочих операций]",
+    "ru": "стучать",
+    "en": "to knock",
+    "fr": "frapper",
+    "es": "llamar",
+    "de": "anklopfen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підіймати [Глаголы движения]",
+    "ru": "поднимать",
+    "en": "to lift",
+    "fr": "soulever",
+    "es": "levantar",
+    "de": "heben",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "губити [Глаголы наличия и количества]",
+    "ru": "терять",
+    "en": "to lose",
+    "fr": "perdre",
+    "es": "perder",
+    "de": "verlieren",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "носити [Глаголы рабочих операций]",
+    "ru": "нести",
+    "en": "to carry",
+    "fr": "porter",
+    "es": "llevar",
+    "de": "tragen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "чистити [Глаголы рабочих операций]",
+    "ru": "убирать",
+    "en": "to clean",
+    "fr": "nettoyer",
+    "es": "limpiar",
+    "de": "putzen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "витирати пил [Глаголы рабочих операций]",
+    "ru": "вытирать пыль",
+    "en": "to dust",
+    "fr": "dépoussiérer",
+    "es": "desempolvar",
+    "de": "abstauben",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сушити [Глаголы рабочих операций]",
+    "ru": "сушить",
+    "en": "to dry",
+    "fr": "sécher",
+    "es": "secar",
+    "de": "trocknen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мочити [Глаголы рабочих операций]",
+    "ru": "мочить",
+    "en": "to wet",
+    "fr": "mouiller",
+    "es": "mojar",
+    "de": "nass machen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "купатися [Бытовые глаголы]",
+    "ru": "купаться",
+    "en": "to bathe",
+    "fr": "baigner",
+    "es": "bañar",
+    "de": "baden",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "намилюватися [Бытовые глаголы]",
+    "ru": "намыливать",
+    "en": "to soap",
+    "fr": "savonner",
+    "es": "enjabonar",
+    "de": "einseifen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "приймати душ [Бытовые глаголы]",
+    "ru": "принимать душ",
+    "en": "to shower",
+    "fr": "prendre une douche",
+    "es": "duchar",
+    "de": "duschen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "витирати [Глаголы рабочих операций]",
+    "ru": "вытирать",
+    "en": "to wipe",
+    "fr": "essuyer",
+    "es": "secar",
+    "de": "abwischen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "з'являтися [Глаголы наличия и количества]",
+    "ru": "появляться",
+    "en": "to appear",
+    "fr": "apparaître",
+    "es": "aparecer",
+    "de": "erscheinen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зникати [Глаголы наличия и количества]",
+    "ru": "исчезать",
+    "en": "to disappear",
+    "fr": "disparaître",
+    "es": "desaparecer",
+    "de": "verschwinden",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зав'язувати [Глаголы рабочих операций]",
+    "ru": "завязывать",
+    "en": "to tie",
+    "fr": "nouer",
+    "es": "atar",
+    "de": "binden",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "розв'язувати [Глаголы рабочих операций]",
+    "ru": "развязывать",
+    "en": "to untie",
+    "fr": "détacher",
+    "es": "desatar",
+    "de": "lösen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "натискати [Глаголы рабочих операций]",
+    "ru": "нажимать",
+    "en": "to press",
+    "fr": "appuyer",
+    "es": "presionar",
+    "de": "drücken",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "повертатися [Глаголы движения]",
+    "ru": "поворачиваться",
+    "en": "to turn",
+    "fr": "tourner",
+    "es": "girar",
+    "de": "drehen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рвати [Глаголы рабочих операций]",
+    "ru": "рвать",
+    "en": "to tear",
+    "fr": "déchirer",
+    "es": "rasgar",
+    "de": "zerreißen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пригинатися [Глаголы движения]",
+    "ru": "пригибаться",
+    "en": "to duck",
+    "fr": "esquiver",
+    "es": "agachar",
+    "de": "sich ducken",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "чесати [Глаголы, обозначающие рабочие операции]",
+    "ru": "чесать",
+    "en": "to scratch",
+    "fr": "se gratter",
+    "es": "picar",
+    "de": "kratzen",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  }
+]

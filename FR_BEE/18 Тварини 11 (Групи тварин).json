@@ -1,0 +1,355 @@
+[
+  "Початковий 2",
+  {
+    "ua": "зоопарк",
+    "ru": "зоопарк",
+    "en": "zoo",
+    "fr": "le zoo",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гніздо",
+    "ru": "гнездо",
+    "en": "nest",
+    "fr": "le nid",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "загін",
+    "ru": "загон",
+    "en": "pen",
+    "fr": "l'enclos",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "свинарня",
+    "ru": "свинарник",
+    "en": "pigsty",
+    "fr": "la porcherie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "курник",
+    "ru": "курятник",
+    "en": "chicken coop",
+    "fr": "le poulailler",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "корівник",
+    "ru": "коровник",
+    "en": "cowshed",
+    "fr": "la vacherie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кошара",
+    "ru": "овчарня",
+    "en": "sheepfold",
+    "fr": "la bergerie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шпаківня",
+    "ru": "скворечник",
+    "en": "birdhouse",
+    "fr": "le nichoir",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "прайд",
+    "ru": "прайд",
+    "en": "pride",
+    "fr": "la troupe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зграя птахів",
+    "ru": "стая птиц",
+    "en": "flock of birds",
+    "fr": "le vol d'oiseaux",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зграя вовків",
+    "ru": "волчья стая",
+    "en": "pack of wolves",
+    "fr": "la meute de loups",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мурашина колонія",
+    "ru": "муравейник",
+    "en": "ant colony",
+    "fr": "la fourmilière",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "клітка",
+    "ru": "клетка",
+    "en": "cage",
+    "fr": "la cage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "акваріум",
+    "ru": "аквариум",
+    "en": "aquarium",
+    "fr": "l'aquarium",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стійло",
+    "ru": "стойло",
+    "en": "stall",
+    "fr": "la stalle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стайня",
+    "ru": "конюшня",
+    "en": "stable",
+    "fr": "l'écurie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "природне середовище",
+    "ru": "среда обитания",
+    "en": "habitat",
+    "fr": "l'habitat",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рій",
+    "ru": "рой",
+    "en": "swarm",
+    "fr": "l'essaim",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вулик",
+    "ru": "улей",
+    "en": "beehive",
+    "fr": "la ruche",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зграя",
+    "ru": "косяк",
+    "en": "school",
+    "fr": "le banc",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "табун коней",
+    "ru": "стадо лошадей",
+    "en": "herd of horses",
+    "fr": "le troupeau de chevaux",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стадо овець",
+    "ru": "стадо овец",
+    "en": "flock of sheep",
+    "fr": "le troupeau de moutons",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "караван",
+    "ru": "караван",
+    "en": "caravan",
+    "fr": "la caravane",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "випасати",
+    "ru": "пасти",
+    "en": "to pasture",
+    "fr": "paître",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  "Середній 1",
+  {
+    "ua": "добре",
+    "ru": "хорошо",
+    "en": "well",
+    "fr": "bien",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "погано",
+    "ru": "плохо",
+    "en": "badly",
+    "fr": "mal",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "легко",
+    "ru": "легко",
+    "en": "easily",
+    "fr": "facilement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дійсно",
+    "ru": "действительно",
+    "en": "really",
+    "fr": "vraiment",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "швидко",
+    "ru": "быстро",
+    "en": "quickly",
+    "fr": "vite",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "повільно",
+    "ru": "медленно",
+    "en": "slowly",
+    "fr": "lentement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прямо",
+    "ru": "напрямую",
+    "en": "directly",
+    "fr": "directement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "взагалі",
+    "ru": "вообще",
+    "en": "generally",
+    "fr": "généralement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "майже",
+    "ru": "почти",
+    "en": "nearly",
+    "fr": "presque",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "переважно",
+    "ru": "в основном",
+    "en": "surtout",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "серйозно",
+    "ru": "серьезно",
+    "en": "seriously",
+    "fr": "sérieusement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нарешті",
+    "ru": "наконец",
+    "en": "finally",
+    "fr": "enfin",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "обов'язково",
+    "ru": "обязательно",
+    "en": "necessarily",
+    "fr": "nécessairement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "раптово",
+    "ru": "внезапно",
+    "en": "suddenly",
+    "fr": "soudainement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "на щастя",
+    "ru": "к счастью",
+    "en": "fortunately",
+    "fr": "heureusement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "на жаль",
+    "ru": "к несчастью",
+    "en": "unfortunately",
+    "fr": "malheureusement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "разом",
+    "ru": "вместе",
+    "en": "together",
+    "fr": "ensemble",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "окремо",
+    "ru": "отдельно",
+    "en": "apart",
+    "fr": "à part",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "замість",
+    "ru": "вместо",
+    "en": "instead (of)",
+    "fr": "au lieu de",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "не",
+    "ru": "не",
+    "en": "not",
+    "fr": "pas",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "якось",
+    "ru": "как-то",
+    "en": "somehow",
+    "fr": "d'une manière",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бездоганно",
+    "ru": "совершенно",
+    "en": "perfectly",
+    "fr": "parfaitement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "обережно",
+    "ru": "осторожно",
+    "en": "carefully",
+    "fr": "soigneusement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "винятково",
+    "ru": "исключительно",
+    "en": "exceptionally",
+    "fr": "exceptionnellement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "вертикально",
+    "ru": "вертикально",
+    "en": "vertically",
+    "fr": "verticalement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "горизонтально",
+    "ru": "горизонтально",
+    "en": "horizontally",
+    "fr": "horizontalement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "за годинниковою стрілкою",
+    "ru": "по часовой стрелке",
+    "en": "clockwise",
+    "fr": "sans horaire",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "таємно",
+    "ru": "секретно",
+    "en": "secretly",
+    "fr": "secrètement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нервово",
+    "ru": "нервно",
+    "en": "nervously",
+    "fr": "nerveusement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "витончено",
+    "ru": "грациозно",
+    "en": "gracefully",
+    "fr": "gracieusement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вручну",
+    "ru": "вручную",
+    "en": "manually",
+    "fr": "manuellement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "штучно",
+    "ru": "искусственно",
+    "en": "artificially",
+    "fr": "artificiellement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  }
+]

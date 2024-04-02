@@ -1,0 +1,388 @@
+[
+  "Середній 1",
+  {
+    "ua": "перший",
+    "ru": "первый",
+    "en": "first",
+    "fr": "premier",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "другий",
+    "ru": "второй",
+    "en": "second",
+    "fr": "deuxième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "третій",
+    "ru": "третий",
+    "en": "third",
+    "fr": "troisième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "четвертий",
+    "ru": "четвертый",
+    "en": "fourth",
+    "fr": "quatrième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "п'ятий",
+    "ru": "пятый",
+    "en": "fifth",
+    "fr": "cinquième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "шостий",
+    "ru": "шестой",
+    "en": "sixth",
+    "fr": "sixième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "сьомий",
+    "ru": "седьмой",
+    "en": "seventh",
+    "fr": "septième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "восьмий",
+    "ru": "восьмой",
+    "en": "eighth",
+    "fr": "huitième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "дев'ятий",
+    "ru": "девятый",
+    "en": "ninth",
+    "fr": "neuvième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "десятий",
+    "ru": "десятый",
+    "en": "tenth",
+    "fr": "dixième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "одинадцятий",
+    "ru": "одиннадцатый",
+    "en": "eleventh",
+    "fr": "onzième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "дванадцятий",
+    "ru": "двенадцатый",
+    "en": "twelfth",
+    "fr": "douzième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "тринадцятий",
+    "ru": "тринадцатый",
+    "en": "thirteenth",
+    "fr": "treizième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "чотирнадцятий",
+    "ru": "четырнадцатый",
+    "en": "fourteenth",
+    "fr": "quatorzième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "п'ятнадцятий",
+    "ru": "пятнадцатый",
+    "en": "fifteenth",
+    "fr": "quinzième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "шістнадцятий",
+    "ru": "шестнадцатый",
+    "en": "sixteenth",
+    "fr": "seizième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "сімнадцятий",
+    "ru": "семнадцатый",
+    "en": "seventeenth",
+    "fr": "dix-septième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "вісімнадцятий",
+    "ru": "восемнадцатый",
+    "en": "eighteenth",
+    "fr": "dix-huitième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "дев'ятнадцятий",
+    "ru": "девятнадцатый",
+    "en": "nineteenth",
+    "fr": "dix-neuvième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "двадцятий",
+    "ru": "двадцатый",
+    "en": "twentieth",
+    "fr": "vingtième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "тридцятий",
+    "ru": "тридцатый",
+    "en": "thirtieth",
+    "fr": "trentième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "сороковий",
+    "ru": "сороковой",
+    "en": "fortieth",
+    "fr": "quarantième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "п'ятдесятий",
+    "ru": "пятидесятый",
+    "en": "fiftieth",
+    "fr": "cinquantième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "шестдесятий",
+    "ru": "шестидесятый",
+    "en": "sixtieth",
+    "fr": "soixantième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "сімдесятий",
+    "ru": "семидесятый",
+    "en": "seventieth",
+    "fr": "soixante-dixième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "вісімдесятий",
+    "ru": "восьмидесятий",
+    "en": "eightieth",
+    "fr": "quatre-vingtième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "дев'яностий",
+    "ru": "девяностый",
+    "en": "ninetieth",
+    "fr": "quatre-vingt-dixième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "сотий",
+    "ru": "сотый",
+    "en": "hundredth",
+    "fr": "centième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "двадцять перший",
+    "ru": "двадцать первый",
+    "en": "twenty-first",
+    "fr": "vingt-et-unième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "тридцять другий",
+    "ru": "тридцать второй",
+    "en": "thirty-second",
+    "fr": "trente-deuxième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "сорок третій",
+    "ru": "сорок третий",
+    "en": "forty-third",
+    "fr": "quarante-troisième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "п'ятдесят четвертий",
+    "ru": "пятьдесят четвертый",
+    "en": "fifty-fourth",
+    "fr": "cinquante-quatrième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "шістдесят п'ятий",
+    "ru": "шестьдесят пятый",
+    "en": "sixty-fifth",
+    "fr": "soixante-cinquième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "сімдесят шостий",
+    "ru": "семьдесят шестой",
+    "en": "seventy-sixth",
+    "fr": "soixante-seizième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "вісімдесят сьомий",
+    "ru": "восемьдесят седьмой",
+    "en": "eighty-seventh",
+    "fr": "quatre-vingt-septième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "дев'яносто восьмий",
+    "ru": "девяносто восьмой",
+    "en": "ninety-eighth",
+    "fr": "quatre-vingt-dix-huitième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "тисячний",
+    "ru": "тысячный",
+    "en": "thousandth",
+    "fr": "millième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "мільйонний",
+    "ru": "миллионный",
+    "en": "millionth",
+    "fr": "millionième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "мільярдний",
+    "ru": "миллиардный",
+    "en": "billionth",
+    "fr": "milliardième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "трильйонний",
+    "ru": "триллионный",
+    "en": "trillionth",
+    "fr": "trillionième",
+    "opts": {
+      "type": "Числівник"
+    }
+  },
+  {
+    "ua": "нумерувати",
+    "ru": "нумеровать",
+    "en": "to number",
+    "fr": "numéroter",
+    "opts": {
+      "type": "Дієслово"
+    }
+  }
+]

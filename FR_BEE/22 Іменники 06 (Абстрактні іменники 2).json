@@ -1,0 +1,439 @@
+[
+  "Середній 1",
+  {
+    "ua": "комфорт",
+    "ru": "комфорт",
+    "en": "comfort",
+    "fr": "le confort",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "поспіх",
+    "ru": "спешка",
+    "en": "hurry",
+    "fr": "la hâte",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зацікавленість",
+    "ru": "интерес",
+    "en": "interest",
+    "fr": "l'intérêt",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "варіант",
+    "ru": "вариант",
+    "en": "variant",
+    "fr": "la variante",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "використання",
+    "ru": "использование",
+    "en": "use",
+    "fr": "l'usage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "реальність",
+    "ru": "реальность",
+    "en": "reality",
+    "fr": "la réalité",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "взірець",
+    "ru": "идеал",
+    "en": "ideal",
+    "fr": "l'idéal",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стандарт",
+    "ru": "стандарт",
+    "en": "standard",
+    "fr": "le standard",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мета",
+    "ru": "задача",
+    "en": "objective",
+    "fr": "l'objectif",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "провина",
+    "ru": "вина",
+    "en": "fault",
+    "fr": "la faute",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "важливість",
+    "ru": "значимость",
+    "en": "importance",
+    "fr": "l'importance",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "структура",
+    "ru": "структура",
+    "en": "structure",
+    "fr": "la structure",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "спосіб",
+    "ru": "метод",
+    "en": "method",
+    "fr": "la méthode",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ризик",
+    "ru": "риск",
+    "en": "risk",
+    "fr": "le risque",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "халепа",
+    "ru": "затруднение",
+    "en": "trouble",
+    "fr": "le trouble",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "заборона",
+    "ru": "запрет",
+    "en": "ban",
+    "fr": "l'interdiction",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рутина",
+    "ru": "режим",
+    "en": "routine",
+    "fr": "la routine",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пріоритет",
+    "ru": "приоритет",
+    "en": "priority",
+    "fr": "la priorité",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дисципліна",
+    "ru": "дисциплина",
+    "en": "discipline",
+    "fr": "la discipline",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "принцип",
+    "ru": "принцип",
+    "en": "principle",
+    "fr": "le principe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "створення",
+    "ru": "создание",
+    "en": "creation",
+    "fr": "la création",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "знищення",
+    "ru": "уничтожение",
+    "en": "desctruction",
+    "fr": "la desctruction",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "компетенція",
+    "ru": "компетенция",
+    "en": "competence",
+    "fr": "la compétence",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "досягнення",
+    "ru": "достижение",
+    "en": "achievement",
+    "fr": "l'accomplissement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "порівняння",
+    "ru": "сравнение",
+    "en": "comparison",
+    "fr": "la comparaison",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "демонстрація",
+    "ru": "демонстрация",
+    "en": "demonstration",
+    "fr": "la démonstration",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "поєднання",
+    "ru": "сочетание",
+    "en": "combination",
+    "fr": "la combinaison",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "внесок",
+    "ru": "вклад",
+    "en": "contribution",
+    "fr": "la contribution",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тенденція",
+    "ru": "тенденция",
+    "en": "tendency",
+    "fr": "la tendance",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "союз",
+    "ru": "союз",
+    "en": "union",
+    "fr": "l'union",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

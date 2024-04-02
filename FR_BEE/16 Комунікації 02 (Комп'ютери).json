@@ -1,0 +1,530 @@
+[
+  "Початковий 1",
+  {
+    "ua": "комп'ютер",
+    "ru": "компьютер",
+    "en": "computer",
+    "fr": "l'ordinateur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "монітор",
+    "ru": "монитор",
+    "en": "monitor",
+    "fr": "le moniteur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "миша",
+    "ru": "мышка",
+    "en": "mouse",
+    "fr": "la souris",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "клавіатура",
+    "ru": "клавиатура",
+    "en": "keyboard",
+    "fr": "le clavier",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "процесор",
+    "ru": "процессор",
+    "en": "processor",
+    "fr": "le processeur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "файл",
+    "ru": "файл",
+    "en": "file",
+    "fr": "le fichier",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зображення",
+    "ru": "изображение",
+    "en": "image",
+    "fr": "l'image",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "програма",
+    "ru": "программа",
+    "en": "programme",
+    "fr": "le programme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "USB-флеш-накопичувач",
+    "ru": "флэшка",
+    "en": "memory stick",
+    "fr": "la clé USB",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "робот",
+    "ru": "робот",
+    "en": "robot",
+    "fr": "le robot",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "планшет",
+    "ru": "планшет",
+    "en": "tablet",
+    "fr": "la tablette",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "робочий стіл",
+    "ru": "рабочий стол",
+    "en": "desktop",
+    "fr": "le bureau",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "панель інструментів",
+    "ru": "панель инструментов",
+    "en": "toolbar",
+    "fr": "la barre d'outils",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мультимедіа",
+    "ru": "мультимедиа",
+    "en": "multimedia",
+    "fr": "le multimédia",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "клацати",
+    "ru": "щелкать",
+    "en": "to click",
+    "fr": "cliquer",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гортати",
+    "ru": "прокручивать",
+    "en": "to scroll",
+    "fr": "défiler",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "програмування",
+    "ru": "программирование",
+    "en": "programming",
+    "fr": "la programmation",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "застосунок",
+    "ru": "приложение",
+    "en": "application",
+    "fr": "l'application",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підписка",
+    "ru": "подписка",
+    "en": "subscription",
+    "fr": "l'abonnement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "встановлювати",
+    "ru": "устанавливать",
+    "en": "to install",
+    "fr": "installer",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "деінсталювати",
+    "ru": "деинсталлировать",
+    "en": "désinstaller",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "система",
+    "ru": "система",
+    "en": "system",
+    "fr": "le système",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "програмне забезпечення",
+    "ru": "программное обеспечение",
+    "en": "software",
+    "fr": "le logiciel",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "перезавантажувати",
+    "ru": "перезагружать",
+    "en": "to restart",
+    "fr": "redémarrer",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "інтерактивний",
+    "ru": "итерактивный",
+    "en": "interactive",
+    "fr": "interactif",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зручний для користування",
+    "ru": "удобный в употреблении",
+    "en": "user-friendly",
+    "fr": "convivial",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "операція",
+    "ru": "операция",
+    "en": "operation",
+    "fr": "l'opération",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "інтерфейс",
+    "ru": "интерфейс",
+    "en": "interface",
+    "fr": "l'interface",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шрифт",
+    "ru": "шрифт",
+    "en": "font",
+    "fr": "la police",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "клік",
+    "ru": "клик",
+    "en": "click",
+    "fr": "le clic",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мати доступ",
+    "ru": "иметь доступ",
+    "en": "to access",
+    "fr": "accéder",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "видаляти",
+    "ru": "удалять",
+    "en": "to delete",
+    "fr": "supprimer",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "інформатика",
+    "ru": "информатика",
+    "en": "informatics",
+    "fr": "l'informatique",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "технологія",
+    "ru": "технология",
+    "en": "technology",
+    "fr": "la technologie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "хакер",
+    "ru": "хакер",
+    "en": "hacker",
+    "fr": "le hacker",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "радіація",
+    "ru": "радиация",
+    "en": "radiation",
+    "fr": "la radiation",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "віртуальний",
+    "ru": "виртуальный",
+    "en": "virtual",
+    "fr": "virtuel",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "цифровий",
+    "ru": "цифровой",
+    "en": "digital",
+    "fr": "numérique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

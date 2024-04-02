@@ -1,0 +1,383 @@
+[
+  "Початковий 1",
+  {
+    "ua": "килим",
+    "ru": "ковер",
+    "en": "carpet",
+    "fr": "le tapis",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "штори",
+    "ru": "занавески",
+    "en": "curtains",
+    "fr": "les rideaux",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ваза",
+    "ru": "ваза",
+    "en": "vase",
+    "fr": "le vase",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "свічка",
+    "ru": "свеча",
+    "en": "candle",
+    "fr": "la bougie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "постільна білизна",
+    "ru": "постельное белье",
+    "en": "bedding",
+    "fr": "le linge de lit",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "простирадло",
+    "ru": "простыня",
+    "en": "badsheet",
+    "fr": "le drap",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ковдра",
+    "ru": "покрывало",
+    "en": "blanket",
+    "fr": "la couverture",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "подушка",
+    "ru": "подушка",
+    "en": "pillow",
+    "fr": "l'oreiller",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "наволочка",
+    "ru": "наволочка",
+    "en": "pillowcase",
+    "fr": "la taie d'oreiller",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рушник",
+    "ru": "полотенце",
+    "en": "towel",
+    "fr": "la serviette",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "скатертина",
+    "ru": "скатерть",
+    "en": "tablecloth",
+    "fr": "la nappe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "серветка",
+    "ru": "салфетка",
+    "en": "napkin",
+    "fr": "la serviette",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "килимок для ніг",
+    "ru": "коврик",
+    "en": "mat",
+    "fr": "le paillasson",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рамка",
+    "ru": "рамка",
+    "en": "frame",
+    "fr": "le cadre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "прикраса",
+    "ru": "украшение",
+    "en": "decoration",
+    "fr": "la décoration",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "статуетка",
+    "ru": "статуэтка",
+    "en": "statuette",
+    "fr": "la statuette",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підсвічник",
+    "ru": "подсвечник",
+    "en": "candlestick",
+    "fr": "le chandelier",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пісковий годинник",
+    "ru": "песочные часы",
+    "en": "hourglass",
+    "fr": "le sablier",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "шпалери",
+    "ru": "обои",
+    "en": "wallpaper",
+    "fr": "le papier peint",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "люстра",
+    "ru": "люстра",
+    "en": "chandelier",
+    "fr": "le lustre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рулонна штора",
+    "ru": "штора на роликах",
+    "en": "roller blind",
+    "fr": "le store",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вазон",
+    "ru": "цветочный горшок",
+    "en": "flowerpot",
+    "fr": "le pot à fleurs",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "ялинкова прикраса",
+    "ru": "елочная игрушка",
+    "en": "ornament",
+    "fr": "l'ornement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гірлянда",
+    "ru": "мишура",
+    "en": "tinsel",
+    "fr": "la guirlande",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вінок",
+    "ru": "венок",
+    "en": "wreath",
+    "fr": "la couronne",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прикрашати",
+    "ru": "украшать",
+    "en": "to decorate",
+    "fr": "décorer",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  }
+]

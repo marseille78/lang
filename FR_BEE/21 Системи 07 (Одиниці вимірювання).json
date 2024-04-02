@@ -1,0 +1,295 @@
+[
+  "Початковий 2",
+  {
+    "ua": "грам",
+    "ru": "грамм",
+    "en": "gram",
+    "fr": "le gramme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кілограм",
+    "ru": "кілограмм",
+    "en": "kilogram",
+    "fr": "le kilogramme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "метр",
+    "ru": "метр",
+    "en": "metre",
+    "fr": "le mètre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кілометр",
+    "ru": "километр",
+    "en": "kilometre",
+    "fr": "le kilomètre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "вага",
+    "ru": "вес",
+    "en": "weight",
+    "fr": "le poids",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "міліграм",
+    "ru": "миллиграмм",
+    "en": "milligram",
+    "fr": "le milligramme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мікрограм",
+    "ru": "микрограмм",
+    "en": "microgram",
+    "fr": "le microgramme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "важити",
+    "ru": "взвешивать",
+    "en": "to weigh",
+    "fr": "peser",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "одиниця",
+    "ru": "единица",
+    "en": "unit",
+    "fr": "l'unité",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кубометр",
+    "ru": "кубический метр",
+    "en": "cubic metre",
+    "fr": "le mètre cube",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "літр",
+    "ru": "литр",
+    "en": "litre",
+    "fr": "le litre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мілілітр",
+    "ru": "миллилитр",
+    "en": "millilitre",
+    "fr": "le millilitre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "міра",
+    "ru": "мера",
+    "en": "measure",
+    "fr": "la mesure",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "довжина",
+    "ru": "длина",
+    "en": "length",
+    "fr": "la longueur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ширина",
+    "ru": "ширина",
+    "en": "width",
+    "fr": "la largeur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "глибина",
+    "ru": "глубина",
+    "en": "depth",
+    "fr": "la profondeur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "відстань",
+    "ru": "расстояние",
+    "en": "distance",
+    "fr": "la distance",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "міліметр",
+    "ru": "миллиметр",
+    "en": "millimetre",
+    "fr": "le millimètre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сантиметр",
+    "ru": "сантиметр",
+    "en": "centimetre",
+    "fr": "le centimètre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "метричний",
+    "ru": "метрический",
+    "en": "metric",
+    "fr": "métrique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

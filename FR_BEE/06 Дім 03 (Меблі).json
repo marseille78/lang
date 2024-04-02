@@ -1,0 +1,475 @@
+[
+  "Початковий 1",
+  {
+    "ua": "ліжко",
+    "ru": "кровать",
+    "en": "bed",
+    "fr": "le lit",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "диван",
+    "ru": "диван",
+    "en": "sofa",
+    "fr": "le canapé",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стілець",
+    "ru": "стул",
+    "en": "chair",
+    "fr": "la chaise",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стіл",
+    "ru": "стол",
+    "en": "table",
+    "fr": "la table",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "лампа",
+    "ru": "лампа",
+    "en": "lamp",
+    "fr": "la lampe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "дзеркало",
+    "ru": "зеркало",
+    "en": "mirror",
+    "fr": "le miroir",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "письмовий стіл",
+    "ru": "письменный стол",
+    "en": "desk",
+    "fr": "le bureau",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крісло",
+    "ru": "кресло",
+    "en": "armchair",
+    "fr": "le fauteuil",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "скриня",
+    "ru": "сундук",
+    "en": "chest",
+    "fr": "le coffre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "колиска",
+    "ru": "колыбель",
+    "en": "cradle",
+    "fr": "le berceau",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "раковина",
+    "ru": "раковина",
+    "en": "sink",
+    "fr": "l'évier",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "душ",
+    "ru": "душ",
+    "en": "shower",
+    "fr": "la douchette",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ванна",
+    "ru": "ванна",
+    "en": "bath",
+    "fr": "la baignoire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "унітаз",
+    "ru": "унитаз",
+    "en": "toilet",
+    "fr": "les toilette",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "гідромасажна ванна",
+    "ru": "гидромассажная ванна",
+    "en": "hot tub",
+    "fr": "la bain tourillon",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "фіранка для душу",
+    "ru": "занавеска для душа",
+    "en": "shower curtain",
+    "fr": "le rideau de douche",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пісуар",
+    "ru": "писсуар",
+    "en": "urinal",
+    "fr": "l'urinoir",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "полиця",
+    "ru": "полка",
+    "en": "shelf",
+    "fr": "l'étagère",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "меблі",
+    "ru": "мебель",
+    "en": "furniture",
+    "fr": "le meuble",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шафа",
+    "ru": "шкаф",
+    "en": "cupboard",
+    "fr": "l'armoir",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "журнальний столик",
+    "ru": "журнальний столик",
+    "en": "coffee table",
+    "fr": "la table basse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шафа",
+    "ru": "гардероб",
+    "en": "wardrobe",
+    "fr": "la garde-robe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "книжкова шафа",
+    "ru": "книжный шкаф",
+    "en": "bookcase",
+    "fr": "la bibliothèque",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "книжкова полиця",
+    "ru": "книжная полка",
+    "en": "bookshelf",
+    "fr": "l'étagère",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сервант",
+    "ru": "буфет",
+    "en": "cupboard",
+    "fr": "l'armoir",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "комод",
+    "ru": "комод",
+    "en": "chest of drawers",
+    "fr": "la commode",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "туалетний столик",
+    "ru": "туалетний столик",
+    "en": "dressing table",
+    "fr": "la coiffeuse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "табурет",
+    "ru": "табурет",
+    "en": "stool",
+    "fr": "le tabouret",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дитячий стілець",
+    "ru": "детский стульчик",
+    "en": "high chair",
+    "fr": "la chaise haute",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крісло-гойдалка",
+    "ru": "кресло-качалка",
+    "en": "rocking chair",
+    "fr": "le rocking-chair",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ослінчик для ніг",
+    "ru": "скамеечка для ног",
+    "en": "footstool",
+    "fr": "le repose-pied",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "біде",
+    "ru": "биде",
+    "en": "bidet",
+    "fr": "le bidet",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

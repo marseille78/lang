@@ -1,0 +1,579 @@
+[
+  "Початковий 1",
+  {
+    "ua": "поліція",
+    "ru": "полиция",
+    "en": "police",
+    "fr": "la police",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "поліцейський автомобіль",
+    "ru": "полицейская машина",
+    "en": "police car",
+    "fr": "la voiture de police",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "детектив",
+    "ru": "детектив",
+    "en": "detective",
+    "fr": "l'inspecteur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "наручники",
+    "ru": "наручники",
+    "en": "handcuffs",
+    "fr": "les menottes",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "арештовувати [Спілкування]",
+    "ru": "арестовывать",
+    "en": "to arrest",
+    "fr": "arrêter",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "небезпека",
+    "ru": "опасность",
+    "en": "danger",
+    "fr": "le danger",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "допомога",
+    "ru": "подмога",
+    "en": "help",
+    "fr": "l'aide",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пожежа",
+    "ru": "пожар",
+    "en": "fire",
+    "fr": "le feu",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нещасний випадок",
+    "ru": "авария",
+    "en": "accident",
+    "fr": "l'accident",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "автомобіль швидкої допомоги",
+    "ru": "скорая помощь",
+    "en": "ambulance",
+    "fr": "l'ambulance",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "безпека",
+    "ru": "безопасность",
+    "en": "security",
+    "fr": "la sécurité",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "надзвичайна ситуація",
+    "ru": "чрезвычайная ситуация",
+    "en": "emergency",
+    "fr": "l'urgence",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пожежне депо",
+    "ru": "пожарная часть",
+    "en": "fire station",
+    "fr": "la caserne de pompiers",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пожежна бригада",
+    "ru": "пожарная команда",
+    "en": "fire brigade",
+    "fr": "les sapeurs-pompiers",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "поліцейська дільниця",
+    "ru": "полицейский участок",
+    "en": "police station",
+    "fr": "le commissariat de police",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "розслідування",
+    "ru": "расследование",
+    "en": "investigation",
+    "fr": "l'enquête",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "справа",
+    "ru": "случай",
+    "en": "case",
+    "fr": "le cas",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "потерпіла",
+    "ru": "жертва",
+    "en": "victim",
+    "fr": "la victime",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підозрюваний",
+    "ru": "подозреваемый",
+    "en": "suspect",
+    "fr": "le suspect",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "злочинець",
+    "ru": "преступник",
+    "en": "criminal",
+    "fr": "le criminel",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гнатися",
+    "ru": "гнаться",
+    "en": "to chase",
+    "fr": "poursuivre",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "інцидент",
+    "ru": "инцидент",
+    "en": "incident",
+    "fr": "l'incident",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вибух",
+    "ru": "взрыв",
+    "en": "explosion",
+    "fr": "l'explosion",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шкода",
+    "ru": "ущерб",
+    "en": "damage",
+    "fr": "le dommage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "доказ",
+    "ru": "улика",
+    "en": "clue",
+    "fr": "l'indice",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "поліцейський кийок",
+    "ru": "дубинка",
+    "en": "baton",
+    "fr": "la matraque",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "значок",
+    "ru": "значок",
+    "en": "badge",
+    "fr": "l'insigne",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "інспектор",
+    "ru": "инспектор",
+    "en": "inspector",
+    "fr": "l'inspecteur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "слідчий",
+    "ru": "следователь",
+    "en": "investigator",
+    "fr": "l'enquêteur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кримінолог",
+    "ru": "криминалист",
+    "en": "criminologist",
+    "fr": "le criminologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "очевидець",
+    "ru": "очевидец",
+    "en": "eyewitness",
+    "fr": "le témoin oculaire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "інформатор",
+    "ru": "осведомитель",
+    "en": "informer",
+    "fr": "l'informateur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "спільник",
+    "ru": "сообщник",
+    "en": "accomplice",
+    "fr": "le complice",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "фоторобот",
+    "ru": "фоторобот",
+    "en": "photofit",
+    "fr": "le portrait-robot",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ізолятор тимчасового утримання",
+    "ru": "изолятор временного содержания",
+    "en": "holding cell",
+    "fr": "la cellule",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "судимість",
+    "ru": "криминальное досье",
+    "en": "criminal record",
+    "fr": "le casier judiciaire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "розшук",
+    "ru": "розыск",
+    "en": "search",
+    "fr": "le recherche",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "арешт",
+    "ru": "арест",
+    "en": "arrest",
+    "fr": "l'arrestation",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зізнання",
+    "ru": "признание",
+    "en": "confession",
+    "fr": "la confession",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "втеча",
+    "ru": "побег",
+    "en": "escape",
+    "fr": "la fuite",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

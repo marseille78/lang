@@ -1,0 +1,425 @@
+[
+  "Середній 1",
+  {
+    "ua": "злочин",
+    "ru": "преступление",
+    "en": "crime",
+    "fr": "le crime",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "напад",
+    "ru": "нападение",
+    "en": "assault",
+    "fr": "l'agression",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шахрайство",
+    "ru": "мошеничество",
+    "en": "fraud",
+    "fr": "la fraude",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пограбування",
+    "ru": "грабеж",
+    "en": "robbery",
+    "fr": "le braquage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "корупція",
+    "ru": "коррупция",
+    "en": "corruption",
+    "fr": "la corruption",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "викрадення",
+    "ru": "похищение",
+    "en": "kidnapping",
+    "fr": "l'enlèvement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "насильство",
+    "ru": "насилие",
+    "en": "violence",
+    "fr": "la violence",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "убивство",
+    "ru": "убийство",
+    "en": "murder",
+    "fr": "le meurtre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тортури",
+    "ru": "пытка",
+    "en": "torture",
+    "fr": "la torture",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "змова",
+    "ru": "конспирация",
+    "en": "conspiracy",
+    "fr": "la conspiration",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "жорстоке поводження",
+    "ru": "жестокое обращение",
+    "en": "abuse",
+    "fr": "l'abus",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вторгнення",
+    "ru": "вторжение",
+    "en": "intrusion",
+    "fr": "l'intrusion",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крадіжка із зломом",
+    "ru": "кража со взломом",
+    "en": "burglary",
+    "fr": "le cambriolage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шпигунство",
+    "ru": "шпионаж",
+    "en": "espionage",
+    "fr": "l'espionnage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тероризм",
+    "ru": "терроризм",
+    "en": "terrorism",
+    "fr": "le terrorisme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "убивство з політичних мотивів",
+    "ru": "политическое убийство",
+    "en": "assassination",
+    "fr": "l'assassinat",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "крадіжка",
+    "ru": "кража",
+    "en": "theft",
+    "fr": "le vol",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підпал",
+    "ru": "поджог",
+    "en": "arson",
+    "fr": "l'incendie criminel",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "згвалтування",
+    "ru": "изнасилование",
+    "en": "rape",
+    "fr": "le viol",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "хабарництво",
+    "ru": "взяточничество",
+    "en": "bribery",
+    "fr": "la corruption",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "державна зрада",
+    "ru": "государственная измена",
+    "en": "treason",
+    "fr": "la traison",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "піратство",
+    "ru": "пиратство",
+    "en": "piracy",
+    "fr": "la piraterie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "хуліганство",
+    "ru": "хулиганство",
+    "en": "hooliganism",
+    "fr": "le vandalisme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стрільба",
+    "ru": "стрельба",
+    "en": "shooting",
+    "fr": "la fusillade",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "вбивати",
+    "ru": "убивать",
+    "en": "to kill",
+    "fr": "tuer",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "красти",
+    "ru": "воровать",
+    "en": "to steal",
+    "fr": "voler",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "душити",
+    "ru": "душить",
+    "en": "to choke",
+    "fr": "étrangler",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "викрадати",
+    "ru": "похищать",
+    "en": "to kidnap",
+    "fr": "kidnapper",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "отруювати",
+    "ru": "отравлять",
+    "en": "to poison",
+    "fr": "empoisonner",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шпигувати",
+    "ru": "шпионить",
+    "en": "to spy",
+    "fr": "espionner",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вдиратися",
+    "ru": "вторгаться",
+    "en": "to intrude",
+    "fr": "faire intrusion",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  }
+]

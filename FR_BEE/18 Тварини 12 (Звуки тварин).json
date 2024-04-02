@@ -1,0 +1,383 @@
+[
+  "Початковий 2",
+  {
+    "ua": "нявкати",
+    "ru": "мяукать",
+    "en": "to meow",
+    "fr": "miauler",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "муркотати",
+    "ru": "мурчать",
+    "en": "to purr",
+    "fr": "ronronner",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гавкати",
+    "ru": "лаять",
+    "en": "to bark",
+    "fr": "aboyer",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крякати",
+    "ru": "крякать",
+    "en": "to quack",
+    "fr": "cancaner",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "няв",
+    "ru": "мяуканье",
+    "en": "meow",
+    "fr": "le miaulement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "муркотіння",
+    "ru": "мурлыканье",
+    "en": "purr",
+    "fr": "le ronronnement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гавкіт",
+    "ru": "гавканье",
+    "en": "bark",
+    "fr": "l'aboiement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крякання",
+    "ru": "кряканье",
+    "en": "quack",
+    "fr": "le coin-coin",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "ревіти",
+    "ru": "рычать",
+    "en": "to roar",
+    "fr": "rugir",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "іржати",
+    "ru": "ржать",
+    "en": "to neigh",
+    "fr": "hennir",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дзижчати",
+    "ru": "жужжать",
+    "en": "to buzz",
+    "fr": "burdonner",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "щебетати",
+    "ru": "чирикать",
+    "en": "to chirp",
+    "fr": "gazouiller",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шипіти",
+    "ru": "шипеть",
+    "en": "to hiss",
+    "fr": "siffler",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "рев",
+    "ru": "рев",
+    "en": "roar",
+    "fr": "le rugissement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "іржання",
+    "ru": "ржание",
+    "en": "neigh",
+    "fr": "le hennissement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дзижчання",
+    "ru": "жужжание",
+    "en": "buzz",
+    "fr": "le bourdonnement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "щебетання",
+    "ru": "чириканье",
+    "en": "chirp",
+    "fr": "le gazouillement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шипіння",
+    "ru": "шипение",
+    "en": "hiss",
+    "fr": "le sifflement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "хрюкати",
+    "ru": "хрюкать",
+    "en": "to oink",
+    "fr": "grogner",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бекати",
+    "ru": "блеять",
+    "en": "to bleat",
+    "fr": "bêler",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "щебетати",
+    "ru": "щебетать",
+    "en": "to tweet",
+    "fr": "pépier",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "квакати",
+    "ru": "квакать",
+    "en": "to croak",
+    "fr": "coasser",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кукурікати",
+    "ru": "кукарекать",
+    "en": "to crow",
+    "fr": "chanter",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вити",
+    "ru": "выть",
+    "en": "to howl",
+    "fr": "hurler",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "хрюкання",
+    "ru": "хрюканье",
+    "en": "oink",
+    "fr": "le grognement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мекання",
+    "ru": "блеяние",
+    "en": "bleat",
+    "fr": "le bêlement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "щебетання",
+    "ru": "щебетанье",
+    "en": "tweet",
+    "fr": "le pépiement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "квакання",
+    "ru": "кваканье",
+    "en": "croak",
+    "fr": "le coassement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кукурікання",
+    "ru": "кукареканье",
+    "en": "crow",
+    "fr": "le chant",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "виття",
+    "ru": "вой",
+    "en": "howl",
+    "fr": "le hurlement",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

@@ -1,0 +1,351 @@
+[
+  "Середній 2",
+  {
+    "ua": "фахівець",
+    "ru": "специалист",
+    "en": "specialist",
+    "fr": "le spécialiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "терапевт",
+    "ru": "терапевт",
+    "en": "physycian",
+    "fr": "la femme-médecin",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "хірург",
+    "ru": "хирург",
+    "en": "surgeon",
+    "fr": "le chirurgien",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "психолог",
+    "ru": "психолог",
+    "en": "psychologist",
+    "fr": "la psychologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "кардіолог",
+    "ru": "кардиолог",
+    "en": "cardiologist",
+    "fr": "la cardiologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дерматолог",
+    "ru": "дерматолог",
+    "en": "dermatologist",
+    "fr": "la dermatologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "педіатр",
+    "ru": "педиатр",
+    "en": "pediatrician",
+    "fr": "le pédiatre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дієтолог",
+    "ru": "диетолог",
+    "en": "dietitian",
+    "fr": "la diététicienne",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "невролог",
+    "ru": "невролог",
+    "en": "neurologist",
+    "fr": "le neurologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "психіатр",
+    "ru": "психиатр",
+    "en": "psychiatrist",
+    "fr": "le psychiatre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "акушер-гінеколог",
+    "ru": "акушер-гинеколог",
+    "en": "obstetrician",
+    "fr": "l'obstétricienne",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "акушерка",
+    "ru": "акушерка",
+    "en": "midwife",
+    "fr": "la sage-femme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "уролог",
+    "ru": "уролог",
+    "en": "urologist",
+    "fr": "l'urologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "офтальмолог",
+    "ru": "офтальмолог",
+    "en": "ophthalmologist",
+    "fr": "l'ophthalmologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "фізіотерапевт",
+    "ru": "физиотерапевт",
+    "en": "physiotherapist",
+    "fr": "la physiothérapeute",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "патологоанатом",
+    "ru": "патологоанатом",
+    "en": "pathologist",
+    "fr": "le pathologiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "онколог",
+    "ru": "онколог",
+    "en": "oncologist",
+    "fr": "l'oncologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рентгенолог",
+    "ru": "рентгенолог",
+    "en": "radiologist",
+    "fr": "la radiologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "анестезіолог",
+    "ru": "анестезиолог",
+    "en": "anesthesiologist",
+    "fr": "l'anesthésiste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мануальний терапевт",
+    "ru": "хиропрактик",
+    "en": "chiropractor",
+    "fr": "le chiropracteur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "токсиколог",
+    "ru": "токсиколог",
+    "en": "toxicologist",
+    "fr": "le toxicologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нефролог",
+    "ru": "нефролог",
+    "en": "nephrologist",
+    "fr": "le néphrologue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нейрохірург",
+    "ru": "нейрохирург",
+    "en": "neurosurgeon",
+    "fr": "la neurochirurdienne",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "цілитель",
+    "ru": "целитель",
+    "en": "healer",
+    "fr": "le guérisseur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

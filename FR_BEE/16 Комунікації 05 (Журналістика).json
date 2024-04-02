@@ -1,0 +1,188 @@
+[
+  "Початковий 2",
+  {
+    "ua": "преса",
+    "ru": "пресса",
+    "en": "press",
+    "fr": "la presse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стаття",
+    "ru": "статья",
+    "en": "article",
+    "fr": "l'article",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "інформація",
+    "ru": "информация",
+    "en": "information",
+    "fr": "l'information",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "проводити інтерв'ю",
+    "ru": "брать интервью",
+    "en": "to interview",
+    "fr": "interviewer",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "журналістика",
+    "ru": "журналистика",
+    "en": "journalism",
+    "fr": "le journalisme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "репортер",
+    "ru": "репортер",
+    "en": "reporter",
+    "fr": "le reporter",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "засоби масової інформації",
+    "ru": "средства массовой информации",
+    "en": "mass-media",
+    "fr": "les médias",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": {
+        "en": true,
+        "fr": false
+      },
+      "desc": ""
+    }
+  },
+  {
+    "ua": "публікація",
+    "ru": "публикация",
+    "en": "pulication",
+    "fr": "la pulication",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "заголовок",
+    "ru": "заголовок",
+    "en": "headline",
+    "fr": "le titre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "афіша",
+    "ru": "афиша",
+    "en": "poster",
+    "fr": "l'affiche",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "джерела",
+    "ru": "источники",
+    "en": "sources",
+    "fr": "les sources",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "інтерв'юєр",
+    "ru": "интервьюер",
+    "en": "interviewer",
+    "fr": "l'intervieweuse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рекламувати",
+    "ru": "рекламировать",
+    "en": "to advertise",
+    "fr": "faire de la publicité",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  }
+]

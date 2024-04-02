@@ -1,0 +1,386 @@
+[
+  "Початковий 1",
+  {
+    "ua": "турист",
+    "ru": "турист",
+    "en": "tourist",
+    "fr": "le touriste",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "відпустка",
+    "ru": "отпуск",
+    "en": "holiday",
+    "fr": "les vacances",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": {
+        "en": true,
+        "fr": false
+      },
+      "desc": ""
+    }
+  },
+  {
+    "ua": "екскурсія",
+    "ru": "экскурсия",
+    "en": "excursion",
+    "fr": "l'excursion",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "подорожувати [Руху]",
+    "ru": "путешествовать",
+    "en": "to travel",
+    "fr": "voyager",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "подорож",
+    "ru": "поездка",
+    "en": "trip",
+    "fr": "le voyage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тур",
+    "ru": "тур",
+    "en": "tour",
+    "fr": "le circuit",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прогулянка",
+    "ru": "погулка",
+    "en": "walk",
+    "fr": "la promenade",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "багаж",
+    "ru": "багаж",
+    "en": "luggage",
+    "fr": "le bagage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "туризм",
+    "ru": "туризм",
+    "en": "tourism",
+    "fr": "le tourisme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пригода",
+    "ru": "приключение",
+    "en": "adventure",
+    "fr": "l'aventure",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "подорож",
+    "ru": "вояж",
+    "en": "voyage",
+    "fr": "le voyage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "віза",
+    "ru": "виза",
+    "en": "visa",
+    "fr": "le visa",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "туристична фірма",
+    "ru": "туристическое агенство",
+    "en": "travel agency",
+    "fr": "l'agence de voyage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рекламний проспект",
+    "ru": "рекламный проспект",
+    "en": "holiday brochure",
+    "fr": "la brochure de vacances",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "екскурсія",
+    "ru": "экскурсия",
+    "en": "guided tour",
+    "fr": "la visite guidée",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "круїз",
+    "ru": "круиз",
+    "en": "cruise",
+    "fr": "la croisière",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "візит",
+    "ru": "визит",
+    "en": "visit",
+    "fr": "la visite",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "туристичний офіс",
+    "ru": "туристический офис",
+    "en": "tourist office",
+    "fr": "l'office du tourisme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "туристичний автобус",
+    "ru": "туристический автобус",
+    "en": "tour bus",
+    "fr": "le bus touristique",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прокат автомобілів",
+    "ru": "аренда автомобилей",
+    "en": "car hire",
+    "fr": "la location de voiture",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "план подорожі",
+    "ru": "маршрут",
+    "en": "itinerary",
+    "fr": "l'itinéraire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "екотуризм",
+    "ru": "экотуризм",
+    "en": "ecotourism",
+    "fr": "l'écotourisme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "експедиція",
+    "ru": "экспедиция",
+    "en": "expedition",
+    "fr": "l'expédition",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "похід",
+    "ru": "пеший поход",
+    "en": "hike",
+    "fr": "la randonnée",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "маршрут",
+    "ru": "рейс",
+    "en": "route",
+    "fr": "l'itinéraire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мандрівник",
+    "ru": "путешественник",
+    "en": "traveller",
+    "fr": "le voyageur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

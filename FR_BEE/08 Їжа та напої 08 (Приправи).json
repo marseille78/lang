@@ -1,0 +1,541 @@
+[
+  "Початковий 1",
+  {
+    "ua": "цукор",
+    "ru": "сахар",
+    "en": "sugar",
+    "fr": "le sucre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сіль",
+    "ru": "соль",
+    "en": "salt",
+    "fr": "le sel",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "чорний перець",
+    "ru": "черный перец",
+    "en": "black pepper",
+    "fr": "le poivre noir",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "олія",
+    "ru": "растительное масло",
+    "en": "oil",
+    "fr": "l'huile",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "прянощі",
+    "ru": "пряности",
+    "en": "spices",
+    "fr": "les épices",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кріп",
+    "ru": "укроп",
+    "en": "dill",
+    "fr": "l'aneth",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "петрушка",
+    "ru": "петрушка",
+    "en": "parsley",
+    "fr": "le persil",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кетчуп",
+    "ru": "кетчуп",
+    "en": "ketchup",
+    "fr": "le ketchup",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гірчиця",
+    "ru": "горчица",
+    "en": "mustard",
+    "fr": "la moutarde",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "оцет",
+    "ru": "уксус",
+    "en": "vinegar",
+    "fr": "le vinaigre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "оливкова олія",
+    "ru": "оливковое масло",
+    "en": "olive oil",
+    "fr": "l'huile d'olive",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пальмова олія",
+    "ru": "пальмовое масло",
+    "en": "palm oil",
+    "fr": "l'huile de palme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "соєвий соус",
+    "ru": "соевый соус",
+    "en": "soya sauce",
+    "fr": "la sauce de soja",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бальзамічний оцет",
+    "ru": "бальзамический уксус",
+    "en": "balsamic vinegar",
+    "fr": "le vinaigre balsamique",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кленовий сироп",
+    "ru": "кленовый сироп",
+    "en": "maple syrup",
+    "fr": "le sirop d'érable",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "приправи",
+    "ru": "приправы",
+    "en": "condiments",
+    "fr": "les condiments",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "чілі",
+    "ru": "красный перец",
+    "en": "chilli",
+    "fr": "le piment",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "імбир",
+    "ru": "имбирь",
+    "en": "ginger",
+    "fr": "le gingembre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ваніль",
+    "ru": "ваниль",
+    "en": "vanilla",
+    "fr": "la vanille",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кориця",
+    "ru": "корица",
+    "en": "cinnamon",
+    "fr": "la cannelle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "паприка",
+    "ru": "паприка",
+    "en": "paprika",
+    "fr": "le paprika",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "соус",
+    "ru": "соус",
+    "en": "sauce",
+    "fr": "la sauce",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "майонез",
+    "ru": "майонез",
+    "en": "mayonnaise",
+    "fr": "la mayonnaise",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підлива",
+    "ru": "подливка",
+    "en": "gravy",
+    "fr": "le jus de viande",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "песто",
+    "ru": "песто",
+    "en": "pesto",
+    "fr": "le pesto",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr":"Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "васабі",
+    "ru": "васаби",
+    "en": "wasabi",
+    "fr": "le wasabi",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "трави",
+    "ru": "травы",
+    "en": "herbs",
+    "fr": "les herbes",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "базилік",
+    "ru": "базилик",
+    "en": "basil",
+    "fr": "le basilic",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "м'ята",
+    "ru": "мята",
+    "en": "mint",
+    "fr": "la menthe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "чебрець",
+    "ru": "тимьян",
+    "en": "thyme",
+    "fr": "le thym",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "лавровий лист",
+    "ru": "лавровый лист",
+    "en": "bay",
+    "fr": "le laurier",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "кмин",
+    "ru": "тмин",
+    "en": "caraway",
+    "fr": "le carvi",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пажитник",
+    "ru": "пажитник сенной",
+    "en": "fenugreek",
+    "fr": "le fenugrec",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "коріандр",
+    "ru": "кориандр",
+    "en": "coriander",
+    "fr": "la coriandre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "орегано",
+    "ru": "орегано",
+    "en": "oregano",
+    "fr": "l'origan",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "перцева м'ята",
+    "ru": "перечная мята",
+    "en": "peppermint",
+    "fr": "la menthe poivrée",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "приправляти",
+    "ru": "приправлять",
+    "en": "to season",
+    "fr": "assaisonner",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  }
+]

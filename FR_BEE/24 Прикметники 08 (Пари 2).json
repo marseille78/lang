@@ -1,0 +1,579 @@
+[
+  "Середній 1",
+  {
+    "ua": "рідкий",
+    "ru": "жидкий",
+    "en": "liquid",
+    "fr": "liquide",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "твердий",
+    "ru": "твердый",
+    "en": "solid",
+    "fr": "solidу",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "об'єднаний",
+    "ru": "объединенный",
+    "en": "united",
+    "fr": "uni",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "окремий",
+    "ru": "отдельный",
+    "en": "separate",
+    "fr": "séparé",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стабільний",
+    "ru": "стабильный",
+    "en": "stable",
+    "fr": "stable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нестабільний",
+    "ru": "нестабильный",
+    "en": "unstable",
+    "fr": "instable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "точний",
+    "ru": "точный",
+    "en": "exact",
+    "fr": "exact",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "неточний",
+    "ru": "неточный",
+    "en": "inexact",
+    "fr": "inexact",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "корисний",
+    "ru": "полезный",
+    "en": "useful",
+    "fr": "utile",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "некорисний",
+    "ru": "бесполезный",
+    "en": "useless",
+    "fr": "inutile",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "офіційний",
+    "ru": "формальный",
+    "en": "formal",
+    "fr": "formel",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "невимушений",
+    "ru": "неформальный",
+    "en": "informal",
+    "fr": "informel",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "національний",
+    "ru": "национальный",
+    "en": "national",
+    "fr": "national",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "міжнародний",
+    "ru": "интернациональный",
+    "en": "international",
+    "fr": "international",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "гірший",
+    "ru": "хуже",
+    "en": "inferior",
+    "fr": "inférieur",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кращий",
+    "ru": "лучше",
+    "en": "superior",
+    "fr": "supérieur",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "закінчений",
+    "ru": "завершенный",
+    "en": "complete",
+    "fr": "complet",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "незавершений",
+    "ru": "незавершенный",
+    "en": "incomplete",
+    "fr": "incomplet",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "залежний",
+    "ru": "зависимый",
+    "en": "dependent",
+    "fr": "dépendant",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "незалежний",
+    "ru": "независимый",
+    "en": "independent",
+    "fr": "indépendant",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "загальний",
+    "ru": "общий",
+    "en": "general",
+    "fr": "général",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "конкретний",
+    "ru": "конкретный",
+    "en": "specific",
+    "fr": "spécifique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "вільний",
+    "ru": "незанятый",
+    "en": "vacant",
+    "fr": "vacant",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зайнятий",
+    "ru": "занятый",
+    "en": "occupied",
+    "fr": "occupé",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шкідливий",
+    "ru": "вредный",
+    "en": "hamful",
+    "fr": "nuisible",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нешкідливий",
+    "ru": "безвредный",
+    "en": "harmless",
+    "fr": "inoffensif",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гострий",
+    "ru": "острый",
+    "en": "sharp",
+    "fr": "tranchant",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тупий",
+    "ru": "тупой",
+    "en": "blunt",
+    "fr": "émoussé",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дійстний",
+    "ru": "действительный",
+    "en": "valid",
+    "fr": "valide",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "недійстний",
+    "ru": "недействительный",
+    "en": "invalid",
+    "fr": "invalide",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "людський",
+    "ru": "человеческий",
+    "en": "human",
+    "fr": "humain",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нелюдський",
+    "ru": "нечеловеческий",
+    "en": "non-human",
+    "fr": "inhumain",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "розумовий",
+    "ru": "умственный",
+    "en": "mental",
+    "fr": "mental",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "фізичний",
+    "ru": "физический",
+    "en": "physical",
+    "fr": "physique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бажаний",
+    "ru": "желанный",
+    "en": "wanted",
+    "fr": "désirée",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "небажаний",
+    "ru": "нежеланный",
+    "en": "unwanted",
+    "fr": "non désiré",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "доступний",
+    "ru": "досягаемый",
+    "en": "accessible",
+    "fr": "accessible",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "недоступний",
+    "ru": "недосягаемый",
+    "en": "inaccessible",
+    "fr": "inaccessible",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ймовірний",
+    "ru": "вероятный",
+    "en": "probable",
+    "fr": "probable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "малоймовірний",
+    "ru": "невероятный",
+    "en": "improbable",
+    "fr": "improbable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

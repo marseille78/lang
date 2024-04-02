@@ -1,0 +1,713 @@
+[
+  "Початковий 1",
+  {
+    "ua": "великий",
+    "ru": "большой",
+    "en": "big",
+    "fr": "gros",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "маленький",
+    "ru": "маленький",
+    "en": "small",
+    "fr": "petit",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "коло",
+    "ru": "круг",
+    "en": "circle",
+    "fr": "le cercle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "квадрат",
+    "ru": "квадрат",
+    "en": "square",
+    "fr": "le carré",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+  
+  "Початковий 2",
+  {
+    "ua": "товстий",
+    "ru": "толстый",
+    "en": "thick",
+    "fr": "épais",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тонкий",
+    "ru": "тонкий",
+    "en": "thin",
+    "fr": "mince",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "широкий",
+    "ru": "широкий",
+    "en": "wide",
+    "fr": "large",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вузький",
+    "ru": "узкий",
+    "en": "narrow",
+    "fr": "étroit",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "трикутник",
+    "ru": "треугольник",
+    "en": "triangle",
+    "fr": "le triangle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прямокутник",
+    "ru": "прямоугольник",
+    "en": "rectangle",
+    "fr": "le rectangle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "розмір",
+    "ru": "размер",
+    "en": "size",
+    "fr": "la taille",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "довгий",
+    "ru": "длинный",
+    "en": "long",
+    "fr": "long",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "короткий",
+    "ru": "короткий",
+    "en": "short",
+    "fr": "court",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "високий",
+    "ru": "высокий",
+    "en": "high",
+    "fr": "haut",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "низький",
+    "ru": "низкий",
+    "en": "low",
+    "fr": "bas",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крихітний",
+    "ru": "крошечный",
+    "en": "tiny",
+    "fr": "minuscule",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "середній",
+    "ru": "средний",
+    "en": "medium",
+    "fr": "moyen",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "величезний",
+    "ru": "огромный",
+    "en": "huge",
+    "fr": "énorme",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "фігура",
+    "ru": "геометрическое тело",
+    "en": "solid shape",
+    "fr": "la figure",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сфера",
+    "ru": "сфера",
+    "en": "sphere",
+    "fr": "la sphère",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "куб",
+    "ru": "куб",
+    "en": "cube",
+    "fr": "le cube",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "циліндр",
+    "ru": "цилиндр",
+    "en": "cylinder",
+    "fr": "le cylindre",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "конус",
+    "ru": "конус",
+    "en": "cone",
+    "fr": "le cône",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тривимірний",
+    "ru": "трехмерный",
+    "en": "three-dimensional",
+    "fr": "tridimensionnel",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гігантський",
+    "ru": "гигантский",
+    "en": "giant",
+    "fr": "gigantesque",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "форма",
+    "ru": "геометрическая фигура",
+    "en": "shape",
+    "fr": "la forme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "лінія",
+    "ru": "линия",
+    "en": "line",
+    "fr": "la ligne",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крива",
+    "ru": "кривая",
+    "en": "curve",
+    "fr": "la courbe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "овал",
+    "ru": "овал",
+    "en": "oval",
+    "fr": "l'ovale",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "півкруг",
+    "ru": "полукруг",
+    "en": "semicircle",
+    "fr": "le demi-cercle",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "диск",
+    "ru": "диск",
+    "en": "disc",
+    "fr": "le disque",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вертикальний",
+    "ru": "вертикальный",
+    "en": "vertical",
+    "fr": "vertical",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "горизонтальний",
+    "ru": "горизонтальный",
+    "en": "horizontal",
+    "fr": "horizontal",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "прямий",
+    "ru": "прямой",
+    "en": "straight",
+    "fr": "droit",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "паралельний",
+    "ru": "параллельный",
+    "en": "parallel",
+    "fr": "parallèle",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "круглий",
+    "ru": "круглый",
+    "en": "round",
+    "fr": "rond",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "квадратний",
+    "ru": "квадратный",
+    "en": "square",
+    "fr": "carré",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "овальний",
+    "ru": "овальный",
+    "en": "oval",
+    "fr": "ovale",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "трикутний",
+    "ru": "треугольный",
+    "en": "triangular",
+    "fr": "triangulaire",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прямокутний",
+    "ru": "прямоугольный",
+    "en": "rectangular",
+    "fr": "rectangulaire",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "хрест",
+    "ru": "крест",
+    "en": "cross",
+    "fr": "la croix",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сітка",
+    "ru": "сетка",
+    "en": "grid",
+    "fr": "la grille",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "паралелограм",
+    "ru": "параллелограмм",
+    "en": "parallelogram",
+    "fr": "le parallélogramme",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ромб",
+    "ru": "ромб",
+    "en": "rhombus",
+    "fr": "le losange",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "трапеція",
+    "ru": "трапеция",
+    "en": "trapezium",
+    "fr": "le trapèze",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "окружність",
+    "ru": "окружность",
+    "en": "circumference",
+    "fr": "la circonférence",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "симетричний",
+    "ru": "симметричный",
+    "en": "symmetrical",
+    "fr": "symétrique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "асиметричний",
+    "ru": "асимметричный",
+    "en": "asymmetrical",
+    "fr": "asymétrique",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "багатосторонній",
+    "ru": "многосторонний",
+    "en": "multilateral",
+    "fr": "multilatéral",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

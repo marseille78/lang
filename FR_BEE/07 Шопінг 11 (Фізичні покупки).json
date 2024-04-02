@@ -1,0 +1,328 @@
+[
+  "Середній 1",
+  {
+    "ua": "купувати [Спілкування]",
+    "ru": "покупать",
+    "en": "to buy",
+    "fr": "acheter",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "продавати [Спілкування]",
+    "ru": "продавать",
+    "en": "to sell",
+    "fr": "vendre",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ходити по магазинах [Спілкування]",
+    "ru": "делать покупки",
+    "en": "to shop",
+    "fr": "faire des courses",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "витрачати [Спілкування]",
+    "ru": "тратить",
+    "en": "to spend",
+    "fr": "dépenser",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "шопінг",
+    "ru": "шопинг",
+    "en": "shopping",
+    "fr": "les courses",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": {
+        "en": true,
+        "fr": false
+      },
+      "desc": ""
+    }
+  },
+  {
+    "ua": "товари",
+    "ru": "товары",
+    "en": "goods",
+    "fr": "les marchandises",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "цінник",
+    "ru": "ценник",
+    "en": "price tag",
+    "fr": "l'étiquette",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "знижка",
+    "ru": "скидка",
+    "en": "discount",
+    "fr": "le rabais",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вартість",
+    "ru": "стоимость",
+    "en": "cost",
+    "fr": "le coût",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "вітрина",
+    "ru": "витрина",
+    "en": "shop window",
+    "fr": "la vitrine",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "примірочна",
+    "ru": "примерочная",
+    "en": "fitting room",
+    "fr": "la cabine d'essayage",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "відділ",
+    "ru": "отдел",
+    "en": "department",
+    "fr": "le rayon",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прилавок",
+    "ru": "прилавок",
+    "en": "counter",
+    "fr": "le comptoir",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стійка",
+    "ru": "стенд",
+    "en": "stand",
+    "fr": "le stand",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "список покупок",
+    "ru": "список покупок",
+    "en": "shopping list",
+    "fr": "la liste de courses",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прохід",
+    "ru": "проход между рядами",
+    "en": "aisle",
+    "fr": "l'allée",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "візок",
+    "ru": "тележка",
+    "en": "trolley",
+    "fr": "le chariot",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "терези",
+    "ru": "весы",
+    "en": "scales",
+    "fr": "la balance",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "квитанція",
+    "ru": "квитанция",
+    "en": "receipt",
+    "fr": "le reçu",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "споживач",
+    "ru": "потребитель",
+    "en": "consumer",
+    "fr": "le consommateur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "черга",
+    "ru": "очередь",
+    "en": "queue",
+    "fr": "la file",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "каса",
+    "ru": "касса",
+    "en": "checkout",
+    "fr": "la caisse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сканер",
+    "ru": "сканер",
+    "en": "scanner",
+    "fr": "le scanner",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

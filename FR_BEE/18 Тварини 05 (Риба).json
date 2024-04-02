@@ -1,0 +1,239 @@
+[
+  "Початковий 2",
+  {
+    "ua": "акула",
+    "ru": "акула",
+    "en": "shark",
+    "fr": "le requin",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "осетер",
+    "ru": "осетр",
+    "en": "sturgeon",
+    "fr": "l'esturgeon",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "золота рибка",
+    "ru": "золотая рибка",
+    "en": "goldfish",
+    "fr": "le poisson rouge",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "морський коник",
+    "ru": "морской конек",
+    "en": "sea horse",
+    "fr": "l'hippocampe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "піранья",
+    "ru": "пиранья",
+    "en": "piranha",
+    "fr": "le piranha",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "скат",
+    "ru": "скат",
+    "en": "skate",
+    "fr": "la raie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "баракуда",
+    "ru": "барракуда",
+    "en": "barracuda",
+    "fr": "le barracuda",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "окунь",
+    "ru": "окунь",
+    "en": "perch",
+    "fr": "la perche",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "білуга",
+    "ru": "белуга",
+    "en": "beluga",
+    "fr": "la baleine blanche",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пічкур",
+    "ru": "гольян",
+    "en": "minnow",
+    "fr": "le vairon",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "щука",
+    "ru": "щука",
+    "en": "pike",
+    "fr": "le brochet",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "камбала",
+    "ru": "камбала",
+    "en": "flounder",
+    "fr": "le flet",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "парчевий короп",
+    "ru": "карп кои",
+    "en": "koi carp",
+    "fr": "la carpe koï",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "плотва",
+    "ru": "плотва",
+    "en": "roach",
+    "fr": "le gardon",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сріблянка",
+    "ru": "рыба аргентина",
+    "en": "argentine",
+    "fr": "l'argentine",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "риба-сонце",
+    "ru": "рыба-луна",
+    "en": "sunfish",
+    "fr": "le poisson-lune",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

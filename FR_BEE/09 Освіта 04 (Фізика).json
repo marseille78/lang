@@ -1,0 +1,249 @@
+[
+  "Середній 2",
+  {
+    "ua": "фізика",
+    "ru": "физика",
+    "en": "physics",
+    "fr": "la physique",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "електрика",
+    "ru": "электричество",
+    "en": "electricity",
+    "fr": "l'électricité",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "швидкість",
+    "ru": "скорость",
+    "en": "speed",
+    "fr": "la vitesse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сила",
+    "ru": "сила",
+    "en": "force",
+    "fr": "la force",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гравітація",
+    "ru": "гравитация",
+    "en": "gravity",
+    "fr": "la gravité",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "магніт",
+    "ru": "магнит",
+    "en": "magnet",
+    "fr": "l'aimant",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "лазер",
+    "ru": "лазер",
+    "en": "laser",
+    "fr": "le laser",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вектор",
+    "ru": "вектор",
+    "en": "vector",
+    "fr": "le vecteur",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "відбивати",
+    "ru": "отражать",
+    "en": "to reflect",
+    "fr": "refléter",
+    "opts": {
+      "type": "Дієслово",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "матерія",
+    "ru": "материя",
+    "en": "matter",
+    "fr": "la matière",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "частка",
+    "ru": "частица",
+    "en": "particle",
+    "fr": "la particule",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "атом",
+    "ru": "атом",
+    "en": "atom",
+    "fr": "l'atome",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "іон",
+    "ru": "ион",
+    "en": "ion",
+    "fr": "l'ion",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "електрон",
+    "ru": "электрон",
+    "en": "electron",
+    "fr": "l'électron",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ядро",
+    "ru": "ядро",
+    "en": "nucleus",
+    "fr": "le noyau",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нейтрон",
+    "ru": "нейтрон",
+    "en": "neutron",
+    "fr": "le neutron",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "протон",
+    "ru": "протон",
+    "en": "proton",
+    "fr": "le proton",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

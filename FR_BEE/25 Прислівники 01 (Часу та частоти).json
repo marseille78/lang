@@ -1,0 +1,383 @@
+[
+  "Початковий 1",
+  {
+    "ua": "зараз",
+    "ru": "сейчас",
+    "en": "now",
+    "fr": "maintenant",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сьогодні",
+    "ru": "сегодня",
+    "en": "today",
+    "fr": "aujourd'hui",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "завтра",
+    "ru": "завтра",
+    "en": "tomorrow",
+    "fr": "demain",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "учора",
+    "ru": "вчера",
+    "en": "yesterday",
+    "fr": "hier",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+
+
+  
+  "Середній 1",
+  {
+    "ua": "завжди",
+    "ru": "всегда",
+    "en": "always",
+    "fr": "toujours",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зазвичай",
+    "ru": "обычно",
+    "en": "usually",
+    "fr": "d'habitude",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "часто",
+    "ru": "часто",
+    "en": "often",
+    "fr": "souvent",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "іноді",
+    "ru": "иногда",
+    "en": "sometimes",
+    "fr": "parfois",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рідко",
+    "ru": "редко",
+    "en": "rarely",
+    "fr": "rarement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ніколи",
+    "ru": "никогда",
+    "en": "never",
+    "fr": "jamais",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зрідка",
+    "ru": "изредка",
+    "en": "occasionally",
+    "fr": "occasionnellement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "перед",
+    "ru": "до",
+    "en": "before",
+    "fr": "avant",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "після",
+    "ru": "после",
+    "en": "after",
+    "fr": "après",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тільки що",
+    "ru": "только что",
+    "en": "just",
+    "fr": "juste",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вже",
+    "ru": "уже",
+    "en": "already",
+    "fr": "déjà",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "недавно",
+    "ru": "недавно",
+    "en": "recently",
+    "fr": "récemment",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "незабаром",
+    "ru": "скоро",
+    "en": "soon",
+    "fr": "bientôt",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "у наші дні",
+    "ru": "в наши дни",
+    "en": "nowadays",
+    "fr": "de nos jours",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "щодня",
+    "ru": "ежедневно",
+    "en": "daily",
+    "fr": "quotidiennement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "щотижня",
+    "ru": "еженедельно",
+    "en": "weekly",
+    "fr": "hebdomadairement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "щомісяця",
+    "ru": "ежемесячно",
+    "en": "monthly",
+    "fr": "mensuellement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "щороку",
+    "ru": "ежегодно",
+    "en": "annually",
+    "fr": "annuellement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "регулярно",
+    "ru": "регулярно",
+    "en": "regularly",
+    "fr": "régulièrement",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "один раз",
+    "ru": "один раз",
+    "en": "once",
+    "fr": "une fois",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "двічі",
+    "ru": "дважды",
+    "en": "twice",
+    "fr": "deux fois",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тричі",
+    "ru": "трижды",
+    "en": "thrice",
+    "fr": "trois fois",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "знову",
+    "ru": "знова",
+    "en": "again",
+    "fr": "encore",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "досі",
+    "ru": "еще",
+    "en": "still",
+    "fr": "toujours",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "відтоді",
+    "ru": "с тех пор",
+    "en": "since",
+    "fr": "depuis",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "тоді",
+    "ru": "тогда",
+    "en": "then",
+    "fr": "à l'époque",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пізніше",
+    "ru": "позже",
+    "en": "later",
+    "fr": "plus tard",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "коли-небудь",
+    "ru": "когда-нибудь",
+    "en": "ever",
+    "fr": "déjà",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "назавжди",
+    "ru": "навсегда",
+    "en": "forever",
+    "fr": "pour toujours",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "тим часом",
+    "ru": "тем временем",
+    "en": "meanwhile",
+    "fr": "entre-tempes",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сьогодні ввечері",
+    "ru": "сегодня вечером",
+    "en": "tonight",
+    "fr": "cette nuit",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "протягом ночі",
+    "ru": "всю ночь",
+    "en": "overnight",
+    "fr": "pendant la nuit",
+    "opts": {
+      "type": "Прислівник",
+      "desc": ""
+    }
+  }
+]

@@ -1,0 +1,307 @@
+[
+  "Початковий 1",
+  {
+    "ua": "черевики",
+    "ru": "туфли",
+    "en": "shoes",
+    "fr": "les chaussures",
+    "es": "los zapatos",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "чоботи",
+    "ru": "ботинки",
+    "en": "boots",
+    "fr": "les bottes",
+    "es": "las botas",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сандалі",
+    "ru": "босоножки",
+    "en": "sandals",
+    "fr": "les sandales",
+    "es": "las sandalias",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "капці",
+    "ru": "тапочки",
+    "en": "slippers",
+    "fr": "les pantoufles",
+    "es": "las pantuflas",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+
+
+
+  "Початковий 2",
+  {
+    "ua": "взуття",
+    "ru": "обувь",
+    "en": "footwear",
+    "fr": "les chaussures",
+    "es": "el calzado",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Чоловічий"
+      },
+      "singular": {
+        "en": true,
+        "fr": false,
+        "es": true
+      },
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кросівки",
+    "ru": "кроссовки",
+    "en": "trainers",
+    "fr": "les baskets",
+    "es": "las zapatillas deportivas",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "в'єтнамки",
+    "ru": "вьетнамки",
+    "en": "flip-flops",
+    "fr": "les tongs",
+    "es": "las chancletas",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "мокасини",
+    "ru": "мокасины",
+    "en": "moccasins",
+    "fr": "les mocassins",
+    "es": "los mocasines",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "підошва",
+    "ru": "подошва",
+    "en": "sole",
+    "fr": "le semelle",
+    "es": "la suela",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "каблук",
+    "ru": "каблук",
+    "en": "heel",
+    "fr": "le talon",
+    "es": "el tacón",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "туфлі на підборах",
+    "ru": "туфли на высоком каблуке",
+    "en": "high heels",
+    "fr": "les talons hauts",
+    "es": "los zapatos de tacón",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "взуття на платформі",
+    "ru": "туфли на платформе",
+    "en": "platform shoes",
+    "fr": "les chaussures compensées",
+    "es": "los zapatos de plataforma",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "босий",
+    "ru": "босой",
+    "en": "barefoot",
+    "fr": "pieds nus",
+    "es": "descalzo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "сабо",
+    "ru": "сабо",
+    "en": "clogs",
+    "fr": "les sabots",
+    "es": "los zuecos",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "еспадрільї",
+    "ru": "эспадрильи",
+    "en": "espadrilles",
+    "fr": "les espadrilles",
+    "es": "las alpargatas",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гумові чоботи",
+    "ru": "резиновые сапоги",
+    "en": "Wellington boots",
+    "fr": "les bottes en caoutchouc",
+    "es": "las botas de lluvia",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "снігоступи",
+    "ru": "снегоступы",
+    "en": "snowshoes",
+    "fr": "les raquettes",
+    "es": "las raquetas de nieve",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шнурки",
+    "ru": "шнурки",
+    "en": "shoelaces",
+    "fr": "les lacets",
+    "es": "los cordones de zapatos",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  }
+]

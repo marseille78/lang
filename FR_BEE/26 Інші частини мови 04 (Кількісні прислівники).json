@@ -1,0 +1,293 @@
+[
+  "Початковий 2",
+  {
+    "ua": "декілька",
+    "ru": "несколько",
+    "en": "few",
+    "fr": "peu",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "чимало",
+    "ru": "много",
+    "en": "many",
+    "fr": "beaucoup de",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "жоден",
+    "ru": "ни один",
+    "en": "no",
+    "fr": "aucun",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "всі",
+    "ru": "все",
+    "en": "all",
+    "fr": "tout",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "половина",
+    "ru": "половина",
+    "en": "half",
+    "fr": "la moitié",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "це",
+    "ru": "это",
+    "en": "this",
+    "fr": "cette",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "те",
+    "ru": "то",
+    "en": "that",
+    "fr": "cette",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ці",
+    "ru": "эти",
+    "en": "these",
+    "fr": "ces",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ті",
+    "ru": "те",
+    "en": "those",
+    "fr": "ces",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "котрась",
+    "ru": "любой",
+    "en": "either",
+    "fr": "l'un ou l'autre",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "жодна",
+    "ru": "ни один",
+    "en": "neither",
+    "fr": "aucun des deux",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "обидві",
+    "ru": "обе",
+    "en": "both",
+    "fr": "les deux",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кожне",
+    "ru": "каждый",
+    "en": "each",
+    "fr": "chaque",
+    "opts": {
+      "type": "Визначник",
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "набір",
+    "ru": "набор",
+    "en": "set",
+    "fr": "l'ensemble",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "чверть",
+    "ru": "четверть",
+    "en": "quarter",
+    "fr": "le quart",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "частина",
+    "ru": "часть",
+    "en": "part",
+    "fr": "la part",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "шматок",
+    "ru": "кусок",
+    "en": "piece",
+    "fr": "le morceau",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пара",
+    "ru": "пара",
+    "en": "pair",
+    "fr": "la paire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "порція",
+    "ru": "порция",
+    "en": "portion",
+    "fr": "la portion",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крапля",
+    "ru": "капля",
+    "en": "drop",
+    "fr": "la goutte",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "скибка",
+    "ru": "ломтик",
+    "en": "slice",
+    "fr": "la tranche",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крихти",
+    "ru": "крошки",
+    "en": "crumbs",
+    "fr": "les miettes",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ковточок",
+    "ru": "маленький глоток",
+    "en": "sip",
+    "fr": "la gorgée",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

@@ -1,0 +1,411 @@
+[
+  "Початковий 2",
+  {
+    "ua": "дзьоб",
+    "ru": "клюв",
+    "en": "beak",
+    "fr": "le bec",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "хвіст",
+    "ru": "хвост",
+    "en": "tail",
+    "fr": "la queue",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "крило",
+    "ru": "крило",
+    "en": "wing",
+    "fr": "l'aile",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "копито",
+    "ru": "копыто",
+    "en": "hoof",
+    "fr": "le sabot",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "хутро",
+    "ru": "шерсть",
+    "en": "fur",
+    "fr": "la fourrure",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кіготь",
+    "ru": "коготь",
+    "en": "claw",
+    "fr": "la griffe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "перо",
+    "ru": "перо",
+    "en": "feather",
+    "fr": "la plume",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "горб",
+    "ru": "горб",
+    "en": "hump",
+    "fr": "la bosse",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "хобот",
+    "ru": "хобот",
+    "en": "trunk",
+    "fr": "la trompe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підкова",
+    "ru": "подкова",
+    "en": "horseshoe",
+    "fr": "le fer à cheval",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "морда",
+    "ru": "морда",
+    "en": "muzzle",
+    "fr": "le museau",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "лапа",
+    "ru": "лапа",
+    "en": "paw",
+    "fr": "la patte",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "передня лапа",
+    "ru": "передняя лапа",
+    "en": "foreleg",
+    "fr": "la patte avant",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "задня лапа",
+    "ru": "задняя лапа",
+    "en": "hind leg",
+    "fr": "la patte arrière",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "криж",
+    "ru": "огузок",
+    "en": "rump",
+    "fr": "la croupe",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ікла",
+    "ru": "клыки",
+    "en": "fangs",
+    "fr": "les crocs",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "грива",
+    "ru": "грива",
+    "en": "mane",
+    "fr": "la crinière",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вуса",
+    "ru": "усы",
+    "en": "whiskers",
+    "fr": "les moustaches",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рило",
+    "ru": "рыло",
+    "en": "snout",
+    "fr": "le groin",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кокон",
+    "ru": "кокон",
+    "en": "cocoon",
+    "fr": "le cocon",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бивні",
+    "ru": "бивни",
+    "en": "tusks",
+    "fr": "les défenses",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "роги",
+    "ru": "рога",
+    "en": "horns",
+    "fr": "les cornes",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": false,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "луска",
+    "ru": "чешуя",
+    "en": "scale",
+    "fr": "l'écaille",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "плавець",
+    "ru": "плавник",
+    "en": "fin",
+    "fr": "la nageoire",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "спинний плавець",
+    "ru": "спинной плавник",
+    "en": "dorsal fin",
+    "fr": "la nageoire dorsale",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "грудний плавець",
+    "ru": "грудной плавник",
+    "en": "pectoral fin",
+    "fr": "la nageoire pectorale",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зябра",
+    "ru": "жабра",
+    "en": "gill",
+    "fr": "la branchie",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "риб'яча кістка",
+    "ru": "рыбная кость",
+    "en": "fishbone",
+    "fr": "l'arête",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]
