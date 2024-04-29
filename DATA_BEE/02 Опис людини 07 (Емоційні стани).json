@@ -1,0 +1,779 @@
+[
+  "Початковий 1",
+  {
+    "ua": "щаслива",
+    "ru": "счастливая",
+    "en": "happy",
+    "fr": "heureuse",
+    "es": "feliz",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нещасний",
+    "ru": "несчастный",
+    "en": "unhappy",
+    "fr": "malheureux",
+    "es": "infeliz",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "спокійна",
+    "ru": "спокойная",
+    "en": "calm",
+    "fr": "calme",
+    "es": "tranquila",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "знервована",
+    "ru": "нервная",
+    "en": "nervous",
+    "fr": "nerveuse",
+    "es": "nerviosa",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Початковий 2",
+  {
+    "ua": "сердитий",
+    "ru": "сердитый",
+    "en": "angry",
+    "fr": "en colère",
+    "es": "enfadado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сумна",
+    "ru": "грустная",
+    "en": "sad",
+    "fr": "triste",
+    "es": "triste",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "радісний",
+    "ru": "радостный",
+    "en": "joyful",
+    "fr": "joyeux",
+    "es": "alegre",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "налякана",
+    "ru": "напуганная",
+    "en": "scared",
+    "fr": "apeurée",
+    "es": "asustada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "який сумнівається",
+    "ru": "сомневающийся",
+    "en": "doubtful",
+    "fr": "incertain",
+    "es": "inseguro",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "впевнений",
+    "ru": "уверенный",
+    "en": "sure",
+    "fr": "sûr",
+    "es": "seguro",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "схвильований",
+    "ru": "возбужденный",
+    "en": "excited",
+    "fr": "excité",
+    "es": "emocionado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "знуджений",
+    "ru": "заскучавший",
+    "en": "bored",
+    "fr": "ennuyé",
+    "es": "aburrido",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гордий",
+    "ru": "гордый",
+    "en": "proud",
+    "fr": "fier",
+    "es": "orgulloso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "розгублений",
+    "ru": "потеряный",
+    "en": "lost",
+    "fr": "perdu",
+    "es": "perdido",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зацікавлений",
+    "ru": "заитересованный",
+    "en": "interested",
+    "fr": "intéressé",
+    "es": "interesado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "самотній",
+    "ru": "одинокий",
+    "en": "lonely",
+    "fr": "seul",
+    "es": "solo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "розслаблена",
+    "ru": "расслабленная",
+    "en": "relaxed",
+    "fr": "détendue",
+    "es": "relajada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "оптимістична",
+    "ru": "надеющаяся",
+    "en": "hopeful",
+    "fr": "optimiste",
+    "es": "optimista",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зневірена",
+    "ru": "потерявшая надежду",
+    "en": "hopeless",
+    "fr": "désespérée",
+    "es": "desesperada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "задоволений",
+    "ru": "довольный",
+    "en": "pleased",
+    "fr": "content",
+    "es": "satisfecho",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "спантеличений",
+    "ru": "растерянный",
+    "en": "confused",
+    "fr": "confus",
+    "es": "confundido",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "емоційна",
+    "ru": "эмоциональная",
+    "en": "emotional",
+    "fr": "émotionnelle",
+    "es": "emocional",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "налякана",
+    "ru": "боящаяся",
+    "en": "afraid",
+    "fr": "effrayée",
+    "es": "temerosa",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "розлючений",
+    "ru": "разъяренный",
+    "en": "furious",
+    "fr": "furieux",
+    "es": "furioso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "завзятий",
+    "ru": "полный энтузиазма",
+    "en": "enthusiastic",
+    "fr": "enthousiaste",
+    "es": "entusiasmado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "роздратований",
+    "ru": "раздраженный",
+    "en": "irritated",
+    "fr": "irrité",
+    "es": "irritado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "приголомшений",
+    "ru": "шокированный",
+    "en": "shocked",
+    "fr": "choqué",
+    "es": "conmocionado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вдячна",
+    "ru": "признательная",
+    "en": "thankful",
+    "fr": "reconnaissante",
+    "es": "agradecida",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "засмучена",
+    "ru": "расстроенная",
+    "en": "upset",
+    "fr": "consternée",
+    "es": "disgustada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "рішуча",
+    "ru": "решительная",
+    "en": "determined",
+    "fr": "déterminée",
+    "es": "determinada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "занепокоєний",
+    "ru": "обеспокоенный",
+    "en": "worried",
+    "fr": "inquiet",
+    "es": "preocupado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "задоволений",
+    "ru": "удовлетворенный",
+    "en": "satisfied",
+    "fr": "satisfait",
+    "es": "satisfecho",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "незадоволений",
+    "ru": "неудовлетворенный",
+    "en": "dissatisfied",
+    "fr": "insatisfait",
+    "es": "insatisfecho",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "розчарований",
+    "ru": "разочарованный",
+    "en": "disappointed",
+    "fr": "déçu",
+    "es": "decepcionado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пригнічений",
+    "ru": "подавленный",
+    "en": "depressed",
+    "fr": "déprimé",
+    "es": "deprimido",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нетерплячий",
+    "ru": "стремящийся",
+    "en": "eager",
+    "fr": "enthousiaste",
+    "es": "entusiasmado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "відчайдушний",
+    "ru": "отчаянный",
+    "en": "desperate",
+    "fr": "désespéré",
+    "es": "desesperado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "налякана",
+    "ru": "испуганная",
+    "en": "fearful",
+    "fr": "peureuse",
+    "es": "temerosa",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вражена",
+    "ru": "впечатленная",
+    "en": "impressed",
+    "fr": "impressionnée",
+    "es": "impresionada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "мотивований",
+    "ru": "мотивированный",
+    "en": "motivated",
+    "fr": "motivé",
+    "es": "motivado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "занепокоєна",
+    "ru": "встревоженная",
+    "en": "concerned",
+    "fr": "inquiète",
+    "es": "preocupada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "одержимий",
+    "ru": "одержимый",
+    "en": "obsessed",
+    "fr": "obsédé",
+    "es": "obsesionado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "здивований",
+    "ru": "удивленный",
+    "en": "surprised",
+    "fr": "surpris",
+    "es": "sorprendido",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нещасний",
+    "ru": "удрученный",
+    "en": "miserable",
+    "fr": "misérable",
+    "es": "miserable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "роздратована",
+    "ru": "раздраженная",
+    "en": "annoyed",
+    "fr": "agacée",
+    "es": "irritada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ревнива",
+    "ru": "ревнивая",
+    "en": "jealous",
+    "fr": "jalouse",
+    "es": "celosa",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "заінтригована",
+    "ru": "заинтригованная",
+    "en": "intrigued",
+    "fr": "intriguée",
+    "es": "intrigada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

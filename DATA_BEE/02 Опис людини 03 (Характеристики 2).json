@@ -1,0 +1,763 @@
+[
+  "Початковий 1",
+  {
+    "ua": "ледачий",
+    "ru": "ленивый",
+    "en": "lazy",
+    "fr": "paresseux",
+    "es": "perezoso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "сором'язлива",
+    "ru": "стеснительная",
+    "en": "shy",
+    "fr": "timide",
+    "es": "tímida",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "грубий",
+    "ru": "грубый",
+    "en": "rude",
+    "fr": "impoli",
+    "es": "grosero",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "пасивна",
+    "ru": "пассивная",
+    "en": "passive",
+    "fr": "passive",
+    "es": "pasiva",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "жадібний",
+    "ru": "жадный",
+    "en": "greedy",
+    "fr": "avide",
+    "es": "avaricioso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Початковий 2",
+  {
+    "ua": "незграбний",
+    "ru": "неуклюжий",
+    "en": "clumsy",
+    "fr": "maladroit",
+    "es": "patoso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "хитра",
+    "ru": "хитрая",
+    "en": "sly",
+    "fr": "sournoise",
+    "es": "astuta",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підлий",
+    "ru": "злой",
+    "en": "mean",
+    "fr": "méchant",
+    "es": "vil",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "неввічлива",
+    "ru": "невежливая",
+    "en": "impolite",
+    "fr": "malpolie",
+    "es": "mal educada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "заздрісний",
+    "ru": "завистливый",
+    "en": "envious",
+    "fr": "envieux",
+    "es": "envidioso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "шалений",
+    "ru": "сумашедший",
+    "en": "mad",
+    "fr": "fou",
+    "es": "loco",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "наївна",
+    "ru": "наивная",
+    "en": "naive",
+    "fr": "naїve",
+    "es": "ingenua",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "непривітлива",
+    "ru": "недружелюбная",
+    "en": "unfriendly",
+    "fr": "inamicale",
+    "es": "antipática",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "дурнуватий",
+    "ru": "глупый",
+    "en": "foolish",
+    "fr": "insensé",
+    "es": "insensato",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "байдужий",
+    "ru": "равнодушный",
+    "en": "indifferent",
+    "fr": "indifférent",
+    "es": "desinteresado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нечесний",
+    "ru": "нечестный",
+    "en": "dishonest",
+    "fr": "malhonnête",
+    "es": "deshonesto",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "дурний",
+    "ru": "безрассудный",
+    "en": "stupid",
+    "fr": "stupide",
+    "es": "estúpido",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "егоїстична",
+    "ru": "эгоистичная",
+    "en": "selfish",
+    "fr": "égoїste",
+    "es": "egoísta",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "недбала",
+    "ru": "неосторожная",
+    "en": "careless",
+    "fr": "distraite",
+    "es": "descuidada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "агресивний",
+    "ru": "агрессивный",
+    "en": "aggressive",
+    "fr": "agressif",
+    "es": "agresivo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нетерпляча",
+    "ru": "нетерпеливая",
+    "en": "impatient",
+    "fr": "impatiente",
+    "es": "impaciente",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "безвідповідальний",
+    "ru": "безответственный",
+    "en": "irresponsible",
+    "fr": "irresponsable",
+    "es": "irresponsable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "негативний",
+    "ru": "негативный",
+    "en": "negative",
+    "fr": "négatif",
+    "es": "negativo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "дитячий",
+    "ru": "инфантильный",
+    "en": "childish",
+    "fr": "enfantin",
+    "es": "infantil",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "жорстока",
+    "ru": "жестокая",
+    "en": "cruel",
+    "fr": "cruelle",
+    "es": "cruel",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "безпорадний",
+    "ru": "беспомощный",
+    "en": "helpless",
+    "fr": "impuissant",
+    "es": "desvalido",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "стривожений",
+    "ru": "озабоченный",
+    "en": "anxious",
+    "fr": "anxieux",
+    "es": "ansioso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "впертий",
+    "ru": "упрямый",
+    "en": "stubborn",
+    "fr": "têtu",
+    "es": "obstinado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "неуспішний",
+    "ru": "безуспешный",
+    "en": "unsuccessful",
+    "fr": "infructueux",
+    "es": "fracasado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "неслухняний",
+    "ru": "непослушный",
+    "en": "naughty",
+    "fr": "vilain",
+    "es": "travieso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "боязкий",
+    "ru": "застенчивый",
+    "en": "timid",
+    "fr": "timide",
+    "es": "tímido",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "критичний",
+    "ru": "придирчивый",
+    "en": "critical",
+    "fr": "critique",
+    "es": "crítico",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "цинічна",
+    "ru": "циничная",
+    "en": "cynical",
+    "fr": "cynique",
+    "es": "cínica",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "невпевнена",
+    "ru": "неуверенная в себе",
+    "en": "insecure",
+    "fr": "sans assurance",
+    "es": "insegura",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зарозуміла",
+    "ru": "высокомерная",
+    "en": "arrogant",
+    "fr": "arrogante",
+    "es": "arrogante",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "забудькуватий",
+    "ru": "забывчивый",
+    "en": "forgetful",
+    "fr": "distrait",
+    "es": "olvidadizo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "неорганізований",
+    "ru": "несобранный",
+    "en": "disorganized",
+    "fr": "désorganisé",
+    "es": "desorganizado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "песимістична",
+    "ru": "пессимистичная",
+    "en": "pessimistic",
+    "fr": "pessimiste",
+    "es": "pesimista",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "злісна",
+    "ru": "безнравственная",
+    "en": "wicked",
+    "fr": "méchante",
+    "es": "malvada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "ненадійний",
+    "ru": "ненадежный",
+    "en": "unreliable",
+    "fr": "peu fiable",
+    "es": "poco fiable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "підозріливий",
+    "ru": "недоверчивый",
+    "en": "suspicious",
+    "fr": "méfiant",
+    "es": "desconfiado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "некомпетентний",
+    "ru": "некомпетентный",
+    "en": "incompetent",
+    "fr": "incompétent",
+    "es": "incompetente",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "нешанобливий",
+    "ru": "непочтительный",
+    "en": "disrespectful",
+    "fr": "irrespectueux",
+    "es": "irrespetuoso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "безсоромний",
+    "ru": "бесстыжий",
+    "en": "shameless",
+    "fr": "éhonté",
+    "es": "desvergonzado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "впертий",
+    "ru": "непреклонный",
+    "en": "rigid",
+    "fr": "rigide",
+    "es": "inflexible",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "неслухняний",
+    "ru": "непослушный",
+    "en": "disobedient",
+    "fr": "désobéissant",
+    "es": "desobediente",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]

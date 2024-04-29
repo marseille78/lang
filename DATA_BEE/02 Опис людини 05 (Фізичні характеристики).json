@@ -1,0 +1,731 @@
+[
+  "Початковий 1",
+  {
+    "ua": "симпатична",
+    "ru": "хорошенькая",
+    "en": "pretty",
+    "fr": "jolie",
+    "es": "linda",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "невисокий",
+    "ru": "низкий",
+    "en": "short",
+    "fr": "petit",
+    "es": "bajo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "високий",
+    "ru": "высокий",
+    "en": "tall",
+    "fr": "grand",
+    "es": "alto",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "милий",
+    "ru": "милый",
+    "en": "cute",
+    "fr": "mignon",
+    "es": "mono",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "потворний",
+    "ru": "уродливый",
+    "en": "ugly",
+    "fr": "moche",
+    "es": "feo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Початковий 2",
+  {
+    "ua": "вродлива",
+    "ru": "красивая",
+    "en": "beautiful",
+    "fr": "belle",
+    "es": "bonita",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гладка",
+    "ru": "толстый",
+    "en": "fat",
+    "fr": "gros",
+    "es": "gordo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "худий",
+    "ru": "худой",
+    "en": "skinny",
+    "fr": "maigre",
+    "es": "flaco",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "охайний",
+    "ru": "опрятный",
+    "en": "neat",
+    "fr": "élégant",
+    "es": "pulcro",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "неохайний",
+    "ru": "неряшливый",
+    "en": "sloppy",
+    "fr": "négligé",
+    "es": "descuidado",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 1",
+  {
+    "ua": "вигляд",
+    "ru": "вид",
+    "en": "aspect",
+    "fr": "l'aspect",
+    "es": "el aspecto",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "струнка",
+    "ru": "стройная",
+    "en": "slender",
+    "fr": "mince",
+    "es": "esbelta",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "повнувата",
+    "ru": "упитанная",
+    "en": "chubby",
+    "fr": "dodue",
+    "es": "regordeta",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "атлетична",
+    "ru": "спортивная",
+    "en": "athletic",
+    "fr": "athlétique",
+    "es": "atlética",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "повна",
+    "ru": "тучная",
+    "en": "obese",
+    "fr": "obèse",
+    "es": "obesa",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "приємна",
+    "ru": "милая",
+    "en": "nice",
+    "fr": "agréable",
+    "es": "bella",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 2",
+  {
+    "ua": "зовнішність",
+    "ru": "внешность",
+    "en": "appearance",
+    "fr": "l'apparence",
+    "es": "la apariencia",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "чарівна",
+    "ru": "очаровательная",
+    "en": "charming",
+    "fr": "charmante",
+    "es": "encantadora",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "вродливий",
+    "ru": "статный",
+    "en": "handsome",
+    "fr": "beau",
+    "es": "guapo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "лисий",
+    "ru": "лысый",
+    "en": "bald",
+    "fr": "chauve",
+    "es": "calvo",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кудлата",
+    "ru": "волосатая",
+    "en": "hairy",
+    "fr": "poilue",
+    "es": "peluda",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "приваблива",
+    "ru": "привлекательная",
+    "en": "attractive",
+    "fr": "séduisante",
+    "es": "atractiva",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "некрасива",
+    "ru": "непривлекательная",
+    "en": "unattractive",
+    "fr": "laide",
+    "es": "poco atractiva",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Середній 3",
+  {
+    "ua": "положення",
+    "ru": "осанка",
+    "en": "posture",
+    "fr": "la posture",
+    "es": "la postura",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "зріст",
+    "ru": "рост",
+    "en": "height",
+    "fr": "la taille",
+    "es": "la altura",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "колір обличчя",
+    "ru": "цвет лица",
+    "en": "complexion",
+    "fr": "le teint",
+    "es": "el cutis",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "родимка",
+    "ru": "родинка",
+    "en": "mole",
+    "fr": "le grain de beauté",
+    "es": "el lunar",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "засмагла",
+    "ru": "загорелая",
+    "en": "tanned",
+    "fr": "bronzée",
+    "es": "bronceada",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "бліда",
+    "ru": "бледная",
+    "en": "pallid",
+    "fr": "pâle",
+    "es": "pálida",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гарна",
+    "ru": "прелестная",
+    "en": "lovely",
+    "fr": "jolie",
+    "es": "bella",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 1",
+  {
+    "ua": "чарівний",
+    "ru": "прелестный",
+    "en": "adorable",
+    "fr": "adorable",
+    "es": "adorable",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "харизматичний",
+    "ru": "харизматичный",
+    "en": "charismatic",
+    "fr": "charismatique",
+    "es": "carismático",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "фігура",
+    "ru": "фигура",
+    "en": "figure",
+    "fr": "la silhouette",
+    "es": "la figura",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "захоплююча",
+    "ru": "потрясающая",
+    "en": "breathtaking",
+    "fr": "époustouflante",
+    "es": "impresionante",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "гладенький",
+    "ru": "гладкий",
+    "en": "smooth",
+    "fr": "lisse",
+    "es": "liso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "неперевершена",
+    "ru": "прекрасная",
+    "en": "gorgeous",
+    "fr": "magnifique",
+    "es": "preciosa",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "прудкий",
+    "ru": "ловкий",
+    "en": "agile",
+    "fr": "souple",
+    "es": "ágil",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+
+
+
+  "Поглиблений 2",
+  {
+    "ua": "комплекція",
+    "ru": "телосложение",
+    "en": "build",
+    "fr": "la carrure",
+    "es": "la complexión",
+    "opts": {
+      "type": "Іменник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "огрядна",
+    "ru": "грузная",
+    "en": "overweight",
+    "fr": "en surpoids",
+    "es": "con sobrepeso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "повний",
+    "ru": "дородный",
+    "en": "corpulent",
+    "fr": "corpulent",
+    "es": "corpulento",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "енергійний",
+    "ru": "бодрый",
+    "en": "vigorous",
+    "fr": "vigoureux",
+    "es": "vigoroso",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "розкішна",
+    "ru": "аппетитная",
+    "en": "voluptuous",
+    "fr": "voluptueuse",
+    "es": "voluptuosa",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "кремезний",
+    "ru": "крепкий",
+    "en": "burly",
+    "fr": "baraqué",
+    "es": "corpulento",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Чоловічий",
+        "es": "Чоловічий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  },
+  {
+    "ua": "витончена",
+    "ru": "грациозная",
+    "en": "graceful",
+    "fr": "gracieuse",
+    "es": "grácil",
+    "opts": {
+      "type": "Прикметник",
+      "sex": {
+        "fr": "Жіночий",
+        "es": "Жіночий"
+      },
+      "singular": true,
+      "desc": ""
+    }
+  }
+]
