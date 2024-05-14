@@ -454,3 +454,18 @@ jusqu'a ce que --- *до*
 
 
 lorsque --- *когда; если*
+
+
+
+euh --- Эм-м-м
+en fait --- Фактически
+mais --- но
+bon --- Хороший
+aussi --- Также
+maintenant --- СЕЙЧАС
+auparavant --- ранее
+ben --- хорошо
+tout d'abord --- Прежде всего
+presque --- почти
+afin de === but --- для того, чтобы === цель
+en suite --- Следующий
