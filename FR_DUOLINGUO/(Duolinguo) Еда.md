@@ -167,3 +167,7 @@ un menu --- *меню*
 
 
 une pomme --- *яблоко*
+
+
+
+un haricot --- *фасоль*
