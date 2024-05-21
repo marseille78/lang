@@ -22,13 +22,13 @@ bonne nuit --- *доброй ночи*
 
 
 
-comment ça va --- *как дела*
-(= ça va bien)
+comment ça va ? --- *как дела?*
+(= ça va bien ?)
 
 
 
-ça va bien --- *как дела; всё в порядке; всё хорошо*
-(= comment ça va)
+ça va bien ? --- *как дела?; всё в порядке?; всё хорошо?*
+(= comment ça va ?)
 
 
 

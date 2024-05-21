@@ -34,7 +34,7 @@ un dauphin --- *дельфин*
 
 
 
-un abeille --- *пчела*
+une abeille --- *пчела*
 
 
 
