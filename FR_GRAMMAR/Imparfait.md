@@ -54,7 +54,7 @@ nous dormions,
 vous dormiez,
 ils dormaient,
 elles dormaient,
-(vous dorm*ez*) ---- *dormir*
+(vous dorm*ez*) --- *dormir*
 
 
 
@@ -75,4 +75,7 @@ tu voyais,
 il voyait,
 elle voyait,
 nous voyions,
-(voy*ez*) --- voir
+vous voyiez,
+ils voyaient,
+elles voyaient,
+(voy*ez*) --- *voir*
