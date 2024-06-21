@@ -163,10 +163,14 @@ const grammar_fr = {
 };
 
 const FR_LINDUO = {
-  "(FR_LINDUO) Фрукты": 0,
-  "(FR_LINDUO) Семья": 0,
-  "(FR_LINDUO) Глаголы": 0,
-  "(FR_LINDUO) Время": 0,
+  // "(FR_LINDUO) Фрукты": 100,
+  // "(FR_LINDUO) Семья": 93,
+  // "(FR_LINDUO) Глаголы": 100,
+  // "(FR_LINDUO) Время": 100,
+  "(FR_LINDUO) Одежда": +61,
+  "(FR_LINDUO) 02 Прилагательные 1": +69,
+  "(FR_LINDUO) 02 Цвета": +85,
+  "(FR_LINDUO) 02 Части тела 1": +53,
 };
 
 const FR_DUOLINGUO = {
