@@ -43,7 +43,7 @@ const grammar = [
     },
 ];
 
-const growing_up_1 = {
+const growing_up = {
     "title": {
         "en": "Growing up",
         "fr": "Grandir",
@@ -418,7 +418,7 @@ const growing_up_1 = {
     ],
 };
 
-const mental_and_physical_development_2 = {
+const mental_and_physical_development = {
     "title": {
         "en": "mental and physical development",
         "fr": "développement mental et physique",
